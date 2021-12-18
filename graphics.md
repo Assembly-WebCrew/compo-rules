@@ -1,6 +1,7 @@
 # Graphics
 
 ## General format rules for the graphics compos
+
 **READ THIS FIRST.** The following file format rules apply to all graphics competitions except for pixeled graphics.
 
 - The only supported image formats are PNG and JPG. Only RGB colour space allowed - no CMYK images.
@@ -59,6 +60,7 @@ The photo competition is themed. The theme for 2021 is: "CYBER". The photo entry
 - Ignoring any of these rules leads very easily to a disqualification.
 
 ##Fast
+
 - The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
 - You have 1.5 hours time to complete your picture. Submit the finished picture by the competition deadline. 
 - Your picture must adhere to theme and contain a specific graphical element which will be published on the Assembly web site at the beginning of the competition
@@ -66,6 +68,7 @@ The photo competition is themed. The theme for 2021 is: "CYBER". The photo entry
 - See also must-follow guidelines on Graphics formats.
 
 ##3D Graphics
+
 3D Graphics compertition is based on 3D-viewer tool FOXOTRON. Create your scene in your favourite tool and export it to FBX-format. More information about tool can be found from https://github.com/Gargaj/Foxotron/wiki
 
 - Filesize limit 50MB
