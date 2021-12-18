@@ -1,6 +1,6 @@
-#Realtime
+# Realtime
 
-##General real-time competition rules
+## General real-time competition rules
 
 - Entry must be in an **executable form**. Pure animation files are not allowed in real-time competitions. Also executables only including an animation and an animation player will not be accepted
 - Every competition has their own **maximum duration** shown but organizers may choose to stop the production before the end
@@ -13,14 +13,14 @@
 - Although not forbidden, we recommend not using import by ordinal for DLLs with non-fixed ordinals to ensure better compatibility
 Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 
-##Demo
+## Demo
 
 - Demo may not last longer than **8 minutes.**
 - Entry must run on a **Desktop platform.**
 - The user has to be able to exit at any time by pressing a key. On PC this key must be ESC.
 - While there is no specified size limit, we still expect it to be reasonable (i.e. something that fits on an average USB stick). As long as you can deliver it to us either by uploading through the party system or on a physical medium.
 
-##1K Intro
+## 1K Intro
 
 - Maximum size in executable form is **1024 bytes.**
 - The file size of the intro will be shown on the screen before the entry is shown.
@@ -30,7 +30,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 - The user has to be able to exit at any time by pressing a key. On PC this key must be ESC.
 - For oldskool entries, check out the submitting instructions from the oldskool compos rules.
 
-##4K Intro
+## 4K Intro
 
 - Maximum size in executable form is**4096 bytes.**
 - Intro may not last longer than **8 minutes.**
@@ -39,7 +39,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 - The user has to be able to exit at any time by pressing a key. On PC this key must be ESC.
 - For oldskool entries, check out the submitting instructions from the oldskool compos rules.
 
-##Oldskool demo 8-bit & 16-bit
+## Oldskool demo 8-bit & 16-bit
 
 - Demo may not last longer than **8 minutes.**
 - Demo must run on **Oldskool 8-bit & 16-bit platform.**
@@ -51,7 +51,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
  - If your machine isn't listed in the supported compo machines then you must provide video capture from (preferably) real hardware. You can also request if we could accommodate you on the real hardware capture.
 - Oldskool compos might be combined if there are less than three entries per compo.
 
-###Oldskool 8-bit & 16-bit platform
+### Oldskool 8-bit & 16-bit platform
 
 - Any oldskool home computer, home console or handheld console which has at most 16-bit data bus.
  - including and up to 4th generation of video game consoles [http://en.wikipedia.org/wiki/History_of_video_game_consoles_(fourth_generation](http://en.wikipedia.org/wiki/History_of_video_game_consoles_(fourth_generation))
@@ -79,7 +79,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 	- In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
 - If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please send an email to: oldskool-contact@assembly.org or if you're on IRCnet, please contact codise.
 
-##Oldskool demo 32-bit & 64-bit
+## Oldskool demo 32-bit & 64-bit
 
 - Demo may not last longer than **8 minutes.**
 - Demo must run on **Oldskool 32-bit & 64-bit platform.**
@@ -91,7 +91,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 	- If your machine isn't listed in the supported compo machines then you must provide video capture from (preferably) real hardware. You can also request if we could accommodate you on the real hardware capture.
 	- Oldskool compos might be combined if there are less than three entries per compo.
 
-###Oldskool 32-bit & 64-bit platform
+### Oldskool 32-bit & 64-bit platform
 
 - Any oldskool home computer, home console or handheld console which has 32-bit or 64-bit CPU and with the following limits:
 	- On Amiga & PC platform it should run on the provided compo machines or machine you provide which do not exceed the compo machine capabilities.
@@ -139,7 +139,7 @@ Entry must run on a Desktop, Oldskool, or Mobile platform.
 - The game may support multiple platforms: you can make your game to work on Windows, Java, Linux, Mac, 3DS, Android, iPhone/iPad, etc. at the same time.
 - For oldskool entries, check out the submitting instructions from the oldskool compos rules.
 
-##Fantasy Console
+## Fantasy Console
 
 - Allowed platforms: TIC-80, PICO-8, quadplay, Voxatron & IBNIZ
 - Entry can run on any number of cartridges (please specify the size in the entry form notes)

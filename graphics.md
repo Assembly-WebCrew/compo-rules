@@ -26,7 +26,7 @@
 - While you are allowed to use stock photos in your entry, clearly the major part of the entry must be result of your own creativity. Use only stock photos you have the rights to.
 - See also must-follow guidelines on Graphics formats.
 
-##Pixel
+## Pixel
 
 This is an oldschool pixeled graphics competition. It means that we’re 
 expecting to see entries that have been drawn pixel by pixel, by using old fashioned techniques and not for example overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
@@ -40,7 +40,7 @@ expecting to see entries that have been drawn pixel by pixel, by using old fashi
 - These rules override generic graphics competition rules. Entries without an unsigned final picture will be disqualified.
 - If you have questions or wish to have a clarification on the rules, please contact your friendly scene lounge organizers well before the competition! Happy pixeling <3
 
-##Photo
+## Photo
 
 The photo competition is themed. The theme for 2021 is: "CYBER". The photo entry must have the theme represented in it as the dominant feature and clearly seen on the picture. Theme can also be interpreted as a more abstract concept.
 
@@ -59,7 +59,7 @@ The photo competition is themed. The theme for 2021 is: "CYBER". The photo entry
 - See also must-follow guidelines on Graphics formats. Please.
 - Ignoring any of these rules leads very easily to a disqualification.
 
-##Fast
+## Fast
 
 - The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
 - You have 1.5 hours time to complete your picture. Submit the finished picture by the competition deadline. 
@@ -67,7 +67,7 @@ The photo competition is themed. The theme for 2021 is: "CYBER". The photo entry
 - Submit one version of the image without your signature (follow the link on supported image formats for details). No intermediate stages are required.
 - See also must-follow guidelines on Graphics formats.
 
-##3D Graphics
+## 3D Graphics
 
 3D Graphics compertition is based on 3D-viewer tool FOXOTRON. Create your scene in your favourite tool and export it to FBX-format. More information about tool can be found from https://github.com/Gargaj/Foxotron/wiki
 

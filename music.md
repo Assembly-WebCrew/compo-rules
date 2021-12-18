@@ -1,6 +1,6 @@
-#Music
+# Music
 
-##General music rules
+## General music rules
 
 - There are no restrictions on composing techniques. Just make sure it's an original piece and in a supported format.
 - All entries must be 100% original and unreleased. No covers, no remixes, no copyrighted material.
@@ -12,7 +12,7 @@
 - However, all entries may (and should) be normalised.
 - Volume control (ReplayGain or similar) will be applied. Making the tune as loud as possible gives no advantage.
 
-##8CH TRACKED MUSIC 2021
+## 8CH TRACKED MUSIC 2021
 
 The tracked music compo has different file formats than general music competitions. The compo will be held in the Scene Lounge with more oldskool rules:
 
@@ -30,14 +30,14 @@ The tracked music compo has different file formats than general music competitio
 - If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!!
 - Remote entries are ALLOWED!
 
-##Listening music
+## Listening music
 
 No restrictions! Make the track you have always wanted to do with the platform of your choice.
 - See general music rules.
 - Listening Music is considered to be music that is not suited to the dance music competition.
 - Entry must be no longer than 3 minutes 30 seconds. Substantially exceeding this limit will result in disqualification (not fade-out)!
 
-##Dance music
+## Dance music
 
 Turn the main hall into a party arena!
 - See general music rules.
@@ -45,7 +45,7 @@ Turn the main hall into a party arena!
 - Entry must be no longer than 3 minutes 30 seconds. Substantially exceeding this limit will result in disqualification (not fade-out)!
 - The competition may be presented as a DJ mix. Parts of your track may be crossfaded or mixed in with other compo tunes. The full track will still be released on for example scene.org.
 
-##Fast music
+## Fast music
 
 Fast music started off when trackers were the tool to use and originally were a set of samples that the module was to be created with a strict time limit (generally 1 hour online, 1.5 hours at parties for that extra 30 min. for all the hassle). Since then we've spiced things up by removing the use of samples, forcing specific chord changes, limiting the genre to italo and making people sing "Assembly 25 years" into their headphones. What's in store for this year will be revealed at the party!
 - See general music rules.

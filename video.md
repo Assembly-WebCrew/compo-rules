@@ -1,6 +1,6 @@
-#Video
+# Video
 
-##Real Wild
+## Real Wild
 
 - Platform can be anything that can run **real-time graphics!** You can have here any hardware (including iPods, oscilloscopes, LCD displays, basically anything that can produce real-time moving images) or software platforms/interpreters/emulators running on modern hardware.
 - If your demo can be run on both real hardware and on an emulator on PC, of course it is preferred to run it in a real hardware. For avoidance of doubt, all real-time rendered graphics demos that don't fit in the demo competition or the oldskool demo competition will fit here in terms of the platform.
@@ -17,7 +17,7 @@
 - The demo must show in a similar manner every time executed
 - Remote entries are allowed
 
-##Short-film
+## Short-film
 
 - The production must be submitted in a supported video format.
 - The film may not last longer than 5 minutes
