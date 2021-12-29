@@ -5,6 +5,7 @@ These competitions are for content created inside games, eg. in-game screenshots
 - Modded games are allowed, but the mods must be publicly available and within the limits of good taste.
 	- For example Minecraft texture and shader packs are OK
 	- K-18 content is NOT OK
+- Game name must be mentioned in slidetext/techniques.
 
 ## In-game photo
 
@@ -35,3 +36,4 @@ These competitions are for content created inside games, eg. in-game screenshots
 - No copyrighted music is allowed, so no GMVs are allowed unless you have necessary rights to the music and are able to provide proof alongside of your submission.
 - The film must be previously unreleased.
 - Remote entries are allowed
+- We suggest [OBS Studio](https://obsproject.com/download) for recording in-game content. A quickstart guide can be found from [https://obsproject.com/wiki/OBS-Studio-Quickstart](https://obsproject.com/wiki/OBS-Studio-Quickstart)
