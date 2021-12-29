@@ -19,7 +19,7 @@ These competitions are for content created inside games, eg. in-game screenshots
  - desaturate
 - Do not add or remove elements from the picture.
 - Composite photos are not allowed, meaning that the photo should be taken with single exposure.
-- Submit the photo without watermarks or signatures. If you make adjustments, submit the original version as a JPG or PNG (1920x1080 minimum if applicable). Original version and possible behind the scenes -material will not be distributed. If you have submitted a scan of a photograph or a slide, prepare to present the original media to the jury as well. In such case the original media will be returned through the Infodesk.
+- Submit the photo without watermarks or signatures. If you make adjustments, submit the original version as a JPG or PNG (1920x1080 minimum if applicable). Original version and possible behind the scenes -material will not be distributed.
 - Picture must be previously unreleased.
 - Since this is a photo competition, make art!
 - See also must-follow guidelines on Graphics formats. Please.
