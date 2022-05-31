@@ -2,16 +2,16 @@
 
 ## General real-time competition rules
 
-- Entry must be in an **executable form**. Pure animation files are not allowed in real-time competitions. Also executables only including an animation and an animation player will not be accepted
-- Every competition has their own **maximum duration** shown but organizers may choose to stop the production before the end
-- The production must work from **read-only media** and must not modify system settings (for example: Windows registry). However, you may use the platform's standard temporary directory during the execution of your entry for storing data if such a service is available
-- The demo must show in a similar manner every time executed
-- Entries which we cannot be run on the compo machines will be disqualified. To prevent this you can ask us to test your production on the compo machines. Do this early and you will even have time to fix any problems that might pop up
-- A **screenshot** image must be submitted with the entry to the competition management system
-- You must hide the **mouse cursor**. Visit this Pouet-forum for help
+- Entry must be in an **executable form**. Pure animation files are not allowed in real-time competitions. Also executables only including an animation and an animation player will not be accepted.
+- Every competition has their own **maximum duration** shown but organizers may choose to stop the production before the end.
+- The production must work from **read-only media** and must not modify system settings (for example: Windows registry). However, you may use the platform's standard temporary directory during the execution of your entry for storing data if such a service is available.
+- The demo must show in a similar manner every time executed.
+- Entries which we cannot be run on the compo machines will be disqualified. To prevent this you can ask us to test your production on the compo machines. Do this early and you will even have time to fix any problems that might pop up.
+- A **screenshot** image must be submitted with the entry to the competition management system.
+- You must hide the **mouse cursor**. Visit this Pouet-forum for help.
 - You do not have to be present at the party place to compete! **Remote entries are welcome!**
-- Although not forbidden, we recommend not using import by ordinal for DLLs with non-fixed ordinals to ensure better compatibility
-Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
+- Although not forbidden, we recommend not using import by ordinal for DLLs with non-fixed ordinals to ensure better compatibility.
+- Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
 
 ## Demo
 
@@ -26,13 +26,13 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 - The file size of the intro will be shown on the screen before the entry is shown.
 - Intro may not last longer than **3 minutes.**
 - The production must be a *single file*. Additional info files are fine but they will be deleted prior running the intro.
-- Entry must run on a**Desktop or Oldskool platform**.
+- Entry must run on a **Desktop or Oldskool platform**.
 - The user has to be able to exit at any time by pressing a key. On PC this key must be ESC.
 - For oldskool entries, check out the submitting instructions from the oldskool compos rules.
 
 ## 4K Intro
 
-- Maximum size in executable form is**4096 bytes.**
+- Maximum size in executable form is **4096 bytes.**
 - Intro may not last longer than **8 minutes.**
 - The production must be a *single file*. Additional info files are fine but they will be deleted prior running the intro.
 - Entry must run on a **Desktop or an Oldskool platform**
@@ -73,7 +73,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 		- 1541-II
 - Capturing the entry
 	- If your intended hardware isn't listed in the capture hardware list then please ask beforehand if we could provide the video capture from the hardware anyways. So we can check if the hardware is working, bring the hardware to the compo base and make sure capturing actually works.
-	- Or depending the Corona situation bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
+	- Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
 	- Or make your own real hardware capture.
 	- Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
 	- In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
@@ -117,7 +117,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 		- Kickstart 3.1
 - Capturing the entry
 	- If your intended hardware isn't listed in the capture hardware list then please ask beforehand if we could provide the video capture from the hardware anyways. So we can check if the hardware is working, bring the hardware to the compo base and make sure capturing actually works.
-	- Or depending the Corona situation bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
+	- Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
 	- Or make your own real hardware capture.
 	- Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
 	- In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
@@ -126,7 +126,7 @@ Entries will be recorded at 1080p60 (or possibly 1080p50) resolution
 ## Game Development
 
 - All entries must be previously unreleased (This also means no previous Game Jams, Steam page, App Store page, youtube trailer etc.).
-Entry must run on a Desktop, Oldskool, or Mobile platform.
+- Entry must run on a Desktop, Oldskool, or Mobile platform.
 - Presentation:
 	- Showing time is maximum **3 minutes** per entry – the game itself can naturally be longer.
 	- Game presentation video options: A recommended way of presenting the game to the audience is to submit a presentation video of the game in the short film delivery format.
