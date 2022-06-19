@@ -42,7 +42,7 @@ expecting to see entries that have been drawn pixel by pixel, by using old fashi
 
 ## Photo
 
-The photo competition is themed. The theme for 2021 is: "CYBER". The photo entry must have the theme represented in it as the dominant feature and clearly seen on the picture. Theme can also be interpreted as a more abstract concept.
+The photo competition does not have a theme this time. Go do art!
 
 - The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
 - Only minor retouching and adjustments are allowed like
