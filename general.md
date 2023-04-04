@@ -16,6 +16,8 @@ The rules are intended to be compact and precise. We advise you to read them car
 	- You may, however, include material in your realtime or development entries that participates at the same event in the music or graphics competitions.
 	- Also, you can include some previously released components in your work if they do not constitute the main portion of the work. For example you can use previously released fonts and samples in creating your work if you have permission to use them.
 
+- No purely AI generated content is allowed, unless it is specifically allowed by individual competition rules. While we do recognize that AI generated content can provide assistance or inspiration, the majority of the submitted entry must exist out of own/group work.
+
 - You must own or have permission to use all the material present in your production. In case of a potential copyright infringement problem it is your duty to prove this. Please read the copyright FAQ.
 - Don't use trademark or copyrighted content such as logos without permission. If you believe your use of trademark of copyright content falls under fair use rules according to Finnish copyright law, contact us in advance to verify this.
 
