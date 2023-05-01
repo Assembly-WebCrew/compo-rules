@@ -41,6 +41,8 @@
 
 ## Oldskool demo 8-bit & 16-bit
 
+This is an demo competition for oldskool hardware in the 8-bit & 16-bit era. There's also separate one for the 32-bit & 64-bit era. So the point is to make a demo that runs on a legacy platform and shows & plays something interesting. Emulators or FPGA hardware can be used for development but the end-product should work and be tested on the real hardware. The division which hardware will go to the 8-bit & 16-bit compo or the 32-bit & 64-bit compo is somewhat arbitrary but the gist of it is to have somewhat similar powered platforms competiting against each other without dividing the compo too much. Also another goal was to accept a wide range of platforms and not only the demoscene classics like Commodore 64 or Amiga 500. Note that some hardware might be very oldskoolish but may not still fit the rules. In that case you can probably entry it to the Real Wild compo. Also any feedback on the division or which platforms should be included or removed are welcome with good argumentation.
+
 - Demo may not last longer than **8 minutes.**
 - Demo must run on **Oldskool 8-bit & 16-bit platform.**
 - Demo must be launchable using the standard procedure for that platform. If in doubt then please ask us.
@@ -110,6 +112,8 @@
 - If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please contact codise#1950 on Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
 
 ## Oldskool demo 32-bit & 64-bit
+
+This is an demo competition for oldskool hardware in the 32-bit & 64-bit era. There's also separate one for the 8-bit & 16-bit era. So the point is to make a demo that runs on a legacy platform and shows & plays something interesting. Emulators or FPGA hardware can be used for development but the end-product should work and be tested on the real hardware. The division which hardware will go to the 8-bit & 16-bit compo or the 32-bit & 64-bit compo is somewhat arbitrary but the gist of it is to have somewhat similar powered platforms competiting against each other without dividing the compo too much. Also another goal was to accept a wide range of platforms and not only the demoscene classics like Commodore 64 or Amiga 500. Note that some hardware might be very oldskoolish but may not still fit the rules. In that case you can probably entry it to the Real Wild compo. Also any feedback on the division or which platforms should be included or removed are welcome with good argumentation.
 
 - Demo may not last longer than **8 minutes.**
 - Demo must run on **Oldskool 32-bit & 64-bit platform.**
