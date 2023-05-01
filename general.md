@@ -13,8 +13,8 @@ The rules are intended to be compact and precise. We advise you to read them car
 - All deadlines are hard deadlines. There is no update deadline anymore. However, if you are in trouble and need more time, contact the compo organizer.
 
 - All material constituting an entry must be previously unreleased. This means that the material in the demo (e.g. graphics, music) has not been used in any previously released production.
-	- You may, however, include material in your realtime or development entries that participates at the same event in the music or graphics competitions.
-	- Also, you can include some previously released components in your work if they do not constitute the main portion of the work. For example you can use previously released fonts and samples in creating your work if you have permission to use them.
+  - You may, however, include material in your realtime or development entries that participates at the same event in the music or graphics competitions.
+  - Also, you can include some previously released components in your work if they do not constitute the main portion of the work. For example you can use previously released fonts and samples in creating your work if you have permission to use them.
 
 - No purely AI generated content is allowed, unless it is specifically allowed by individual competition rules. While we do recognize that AI generated content can provide assistance or inspiration, the majority of the submitted entry must exist out of own/group work.
 
@@ -30,3 +30,4 @@ The rules are intended to be compact and precise. We advise you to read them car
 - Note that you MAY NOT use ANY music which you haven't acquired necessary copyrights and permissions. This means that you have either composed the music by yourself or have got a permission from the original author, who is not a member of any copyright association such as Teosto or Gramex. If the music has been published on a record label it is then most probably controlled by Teosto and Gramex thus it is impossible for you to get any permission to use it in your work for free. You will be liable for any and all possible copyright infringements caused by your work.
 
 - Shown entries are preselected by a jury and/or compo organizers. If your entry is not shown, it will not be released by Assembly.
+

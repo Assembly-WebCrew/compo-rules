@@ -32,3 +32,4 @@ Both competitors have same computer setup to use that is provided by the organiz
 Are you up for the challenge? Contact <email> with topic Shader Showdown Assembly Summer 2021. In the email tell who you are and express your willingness to compete.
 
 To get better gist of what Shader Showdown is check out [Shader Showdown final at Assembly Summer 2019!](https://youtu.be/vv71jDAwTbM)
+
