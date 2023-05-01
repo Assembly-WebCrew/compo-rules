@@ -62,22 +62,52 @@
 - FPGA based reimplementations of computers, FPGA CPUs and devices which are considerably newer than the ones listed here are not allowed. These can be submitted to Real Wild compo.
 - Note that FPGA solutions for peripherals are OK (such as the Ultimate1541 cartridge) - we're talking full computers here, not multi-cart or storage add-ons.
 - We will provide captures from at least the following hardware:
-  - Amiga 500
-    - ECS
-    - 68000 / 7MHz
-    - 512k Chip RAM / 512k Fast RAM
+  - Amiga 500 / PAL
+    - OCS
+    - 68000 / 7 MHz
+    - 512 kB Chip RAM / 512 kB Trapdoor RAM
     - Kickstart 1.3
-  - Commodore 64
+    - Rev 6a, Fat Agnus 8372A, regular Denise 8362R8
+    - real floppies or HXC SD MAX floppy emulator
+    - No hard disk
+    - RGB or c0pperdragon & hoglet67 RGB2HDMI
+  - Sharp X68000 XVI
+    - 68000 / 10 or 16 MHz
+    - 4 MB RAM
+    - real floppy or hard disk
+  - Atari STe / PAL
+    - 68000 / 8 MHz
+    - 4 MB RAM
+    - TOS 1.62 or 2.06
+    - real floppies or HXC SD MAX floppy emulator
+    - possible Ultrasatan + HDDRIVER (untested at the time of writing)
+  - Commodore 64 / PAL
     - SID 6581 and 8580 are available, please specify which SID you want to hear
     - Action Replay 6
     - 1541-II
+    - or 1541 Ultimate II
+  - Philips NMS-8245 / PAL
+    - MSX 2
+    - Z80 @ 3.59 MHz
+    - 128kB RAM 
+    - real 720 kB floppy or hard disk via Carnivore 2 / MegaFlashROM
+    - optional cartridges: Carnivore 2, MegaFlashROM SCC+ SD + 512 kB, Panasonic FM-PAC, real SCC, Moonsound
+  - Panasonic FS-A1 WSX / NTSC-J
+    - MSX 2+
+    - Toshiba T9769C 3.59 MHz / 5.36 MHz (turbo mode)
+    - 512 kB internal RAM
+    - real 720 kB floppy or hard disk via Carnivore 2 / MegaFlashROM
+    - optional cartridges: Carnivore 2, MegaFlashROM SCC+ SD + 512 kB, real SCC, Moonsound
+  - NEC PC Engine / NTSC-J
+    - Turbo Everdrive V2
 - Capturing the entry
-  - If your intended hardware isn't listed in the capture hardware list then please ask beforehand if we could provide the video capture from the hardware anyways. So we can check if the hardware is working, bring the hardware to the compo base and make sure capturing actually works.
+  - If you wish that we make the capture the please contact us preferably well before the deadline so we can check if the hardware is still working, bring the hardware to the compo base and make sure capturing actually works.
+  - If your intended hardware isn't listed in the capture hardware list then please ask preferably well before the deadline if we could provide the video capture from the hardware anyways.
   - Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
   - Or make your own real hardware capture.
   - Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
   - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
-- If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please send an email to: oldskool-contact@assembly.org or if you're on IRCnet, please contact codise.
+- If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please contact codise#1950 on Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
 
 ## Oldskool demo 32-bit & 64-bit
 
@@ -105,23 +135,39 @@
 - FPGA based reimplementations of computers, FPGA CPUs and devices which are considerably newer than the ones listed here are not allowed. These can be submitted to Real Wild compo.
   - Note that FPGA solutions for peripherals are OK (such as the PSIO flash cartridge) - we're talking full computers here, not multi-cart or storage add-ons.
 - We will provide captures from at least the following hardware:
-  - Pentium 133MHz
+  - Pentium 133 MHz
     - S3 86C775 graphics card
     - Gravis Ultrasound Extreme (SB Pro compatible)
-    - 32MB RAM
-    - DOS
-  - Amiga AGA
-    - 68060 / 50MHz
-    - 2MB Chip RAM / 32MB Fast RAM
+    - 32 MB RAM
+    - MS-DOS 6.22
+  - Pentium MMX 233 MHz
+    - Not fully tested at the time of writing: small changes are possible!
+    - S3 Trio64V2/DX (or some very similarly compatible)
+    - Voodoo 1 (4 MB)
+    - SB AWE 64 Gold (or at least SB16)
+    - Gravis Ultrasound PnP (or some GUS)
+    - 32 MB RAM
+    - Windows 95 / MS-DOS 7
+  - NEC PC-9821 Ap/U7
+    - CPU switchable: AMD 5x86 @ 66 MHz (full RAM) / AMD 486SX 16Mhz (full RAM) / NEC V30 10MHz (only 640 kB RAM)
+    - ~15.3 MB RAM
+    - Integrated PEGC graphics (EGC + 256 color mode), no Window Accelerator
+    - Built in PC-9821-86 YM2608 + PCM + added Chibioto
+    - hard disk or 3.5" 1.2 MB real floppy
+    - NEC MS-DOS 6.2
+  - Amiga 1200 (AGA) / PAL
+    - Blizzard 1260: 68060 @ 50 MHz
+    - 2MB Chip RAM / 80 MB Fast RAM
     - no RTG or AHI
     - Kickstart 3.1
 - Capturing the entry
-    - If your intended hardware isn't listed in the capture hardware list then please ask beforehand if we could provide the video capture from the hardware anyways. So we can check if the hardware is working, bring the hardware to the compo base and make sure capturing actually works.
-    - Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
-    - Or make your own real hardware capture.
-    - Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
-    - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
-- If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please send an email to: oldskool-contact@assembly.org or if you're on IRCnet, please contact codise.
+  - If you wish that we make the capture the please contact us preferably well before the deadline so we can check if the hardware is working, bring the hardware to the compo base and make sure capturing actually works.
+  - If your intended hardware isn't listed in the capture hardware list then please ask preferably well before the deadline if we could provide the video capture from the hardware anyways.
+  - Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
+  - Or make your own real hardware capture.
+  - Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
+  - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
+- If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please contact codise#1950 on Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
 
 ## Game Development
 
