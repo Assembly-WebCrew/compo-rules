@@ -32,3 +32,4 @@ Still: JPG, PNG in resolution of 3840×768
 ## Special notes
 
 The video streaming will require extending the image letterboxed accordingly to fit 16:9 ratio.
+

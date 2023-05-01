@@ -46,11 +46,11 @@ The photo competition does not have a theme this time. Go do art!
 
 - The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
 - Only minor retouching and adjustments are allowed like
- - crop, straighten, lens corrections
- - scale
- - color temperature
- - exposure adjustment
- - desaturate
+  - crop, straighten, lens corrections
+  - scale
+  - color temperature
+  - exposure adjustment
+  - desaturate
 - Do not add or remove elements from the picture.
 - Composite photos are not allowed, meaning that the photo should be taken with single exposure. This rules out photos taken using internal photo stacking and HDR, for example.
 - Submit the photo without watermarks or signatures. If you make adjustments, submit the original version as a JPG or PNG (1920x1080 minimum if applicable). Original version and possible behind the scenes -material will not be distributed. If you have submitted a scan of a photograph or a slide, prepare to present the original media to the jury as well. In such case the original media will be returned through the Infodesk.
@@ -75,3 +75,4 @@ The photo competition does not have a theme this time. Go do art!
 - Texture resolution limit is 4096x4096
 - All content in scene has to be original
 - Mesh has to be unpublished before competition deadline
+

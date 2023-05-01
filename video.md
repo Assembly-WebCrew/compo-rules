@@ -11,8 +11,8 @@
 - The **device/components/platform have to be publicly available** (or have been available in the past) for anyone to purchase.
 - You must provide specific instructions to build, configure, install, and run the entry on the platform. If the platform/device is your own specific hack, the **instructions** to do such a hardware hack must be included.
 - To prove your entry really runs on the platform, you must either:
-	- **bring the hardware to the party place** and show your demo to the organizers / the jury, or
-	- **in case of remote entries**, record a proof video if the actual competition video does not provide enough proof. Organizers/jury judge the proof. If in doubt, contact the organizers.
+  - **bring the hardware to the party place** and show your demo to the organizers / the jury, or
+  - **in case of remote entries**, record a proof video if the actual competition video does not provide enough proof. Organizers/jury judge the proof. If in doubt, contact the organizers.
 - Pure animation files are not allowed in real-time competitions. Also executables only including an animation and an animation player will not be accepted.
 - The demo must show in a similar manner every time executed
 - Remote entries are allowed
@@ -23,3 +23,4 @@
 - The film may not last longer than 5 minutes
 - Computer generated pieces of art (e.g. animations, machinima, ...) are preferred over plain home video types of entries. From now on, you can submit any videos of real-time generated graphics on odd devices to the Real Wild demo competition.
 - Remote entries are allowed
+

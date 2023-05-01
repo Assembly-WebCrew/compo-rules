@@ -44,9 +44,10 @@ The tracked music compo will be held at the Scene Lounge, and has different file
 - Allowed formats: MOD, S3M, XM and IT
 - Please provide a recording of your entry in MP3 (256kbps or higher), OGG (256kbps or higher) or WAV format.
 - Entries will be played in XMPlay with following settings:
- - MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
- - S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
+  - MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
+  - S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
 - All entries must be 100% original and unreleased.
 - No remixes, no copyrighted material.
 - If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!!
 - Remote entries are ALLOWED!
+
