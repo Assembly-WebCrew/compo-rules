@@ -8,7 +8,7 @@
 - The demo must show in a similar manner every time executed.
 - Entries which we cannot be run on the compo machines will be disqualified. To prevent this you can ask us to test your production on the compo machines. Do this early and you will even have time to fix any problems that might pop up.
 - A **screenshot** image must be submitted with the entry to the competition management system.
-- You must hide the **mouse cursor**. Visit this Pouet-forum for help.
+- You must hide the **mouse cursor**.
 - You do not have to be present at the party place to compete! **Remote entries are welcome!**
 - Although not forbidden, we recommend not using import by ordinal for DLLs with non-fixed ordinals to ensure better compatibility.
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
