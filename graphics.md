@@ -15,7 +15,7 @@
 ## Freestyle
 
 - The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
-- You must submit clear evidence of the process of creating the fast graphics competition picture in the form of at least SIX versions of the unfinished picture that show the creation process.
+- You must submit clear evidence of the process of creating the freestyle graphics competition picture in the form of at least SIX versions of the unfinished picture that show the creation process.
 - This means that the different steps of the process (e.g. outline, coloring, retouching) are shown in different files from different points in time when the picture is being created
 - If you are using a modeler, it is not sufficient to submit six pictures of the final picture from different view points! If you are using a photograph, take few extra shots and include them as a proof.
 - The resolution of the unfinished pictures must be at least the same as the resolution of the final picture, but you can submit also higher resolution pictures.
