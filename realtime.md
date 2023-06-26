@@ -182,7 +182,7 @@ This is an demo competition for oldskool hardware in the 32-bit & 64-bit era. Th
   - Game presentation video options: A recommended way of presenting the game to the audience is to submit a presentation video of the game in the short film delivery format.
 - The entry must be **playable!**
 - The user has to be able to exit at any time. This may be executed by pressing ESC or other applicable method (e.g. game menu).
-- The game can save high scores and user settings on the hard drive or in the system registry.
+- The game may write game settings / savegames / high scores on the hard drive or in the system registry, but this is not a requirement.
 - The game may utilize a network connection.
 - The PC desktop version must be playable with **1080p resolution.**
 - A **screenshot** must be submitted along the entry.
