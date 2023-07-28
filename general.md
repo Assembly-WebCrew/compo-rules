@@ -6,7 +6,7 @@ The rules are intended to be compact and precise. We advise you to read them car
 
 - The author of an entry or his designated proxy must be present at the party to be eligible to participate in graphics or music compos and to receive any prizes the entry might win.
 
-- Remote entries are accepted for real time compos. Purchase of an oldskool ticket is required to participate.
+- Remote entries are accepted for real time compos. Purchase of a ticket is required to vote.
 
 - Competition entries must be uploaded to the competition system before the given deadline.
 
