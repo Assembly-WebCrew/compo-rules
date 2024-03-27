@@ -5,6 +5,7 @@
 - There are no restrictions on composing techniques. Just make sure it's an original piece and in a supported format.
 - All entries must be 100% original and unreleased. No covers, no remixes, no copyrighted samples or other copyrighted material.
 - If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!
+- Generative AI may not be used for significant portions of the song, such as entire vocal or instrument tracks.
 - Supported formats are 320kbps MP3, HQ OGG, WAV and FLAC
 - A preselection jury will be held to comply with the time limit of each compo (typically 45 minutes). So do your best! If your entry is not shown, it will not be released by Assembly.
 - It is up to you (not organisers) to submit to a suitable competition. Submitting to a wrong category (e.g. ambient music to the dance music competition) will simply result in a low jury score or disqualification.
