@@ -191,7 +191,7 @@ This is an demo competition for oldskool hardware in the 32-bit & 64-bit era. Th
 
 ## Fantasy Console
 
-- Allowed platforms: TIC-80, PICO-8, quadplay, Voxatron & IBNIZ
+- Allowed platforms: TIC-80, PICO-8, PICOTRON, Quadplay, Voxatron & IBNIZ
 - Entry can run on any number of cartridges (please specify the size in the entry form notes)
 - Production may not last longer than **5 minutes**.
 
