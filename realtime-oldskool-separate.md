@@ -39,18 +39,19 @@
 - The user has to be able to exit at any time by pressing a key. On PC this key must be ESC.
 - For oldskool entries, check out the submitting instructions from the oldskool compos rules.
 
-## Oldskool demo combined
+## Oldskool demo 8-bit & 16-bit
 
-This is a combined demo competition for oldskool hardware in the 8-bit & 16-bit & 32-bit & 64-bit era. So the point is to make a demo that runs on a legacy platform and shows & plays something interesting. Emulators or FPGA hardware can be used for development but the end-product should work and be tested on the real hardware. One goal for these rules was to accept a wide range of platforms and not only the demoscene classics like Commodore 64 or Amiga 500. Note that some hardware might be very oldskoolish but may not still fit the rules. In that case you can probably entry it to the Real Wild compo. Also any feedback on the division or which platforms should be included or removed are welcome with good argumentation.
+This is an demo competition for oldskool hardware in the 8-bit & 16-bit era. There's also separate one for the 32-bit & 64-bit era. So the point is to make a demo that runs on a legacy platform and shows & plays something interesting. Emulators or FPGA hardware can be used for development but the end-product should work and be tested on the real hardware. The division which hardware will go to the 8-bit & 16-bit compo or the 32-bit & 64-bit compo is somewhat arbitrary but the gist of it is to have somewhat similar powered platforms competiting against each other without dividing the compo too much. Also another goal was to accept a wide range of platforms and not only the demoscene classics like Commodore 64 or Amiga 500. Note that some hardware might be very oldskoolish but may not still fit the rules. In that case you can probably entry it to the Real Wild compo. Also any feedback on the division or which platforms should be included or removed are welcome with good argumentation.
 
 - Demo may not last longer than **8 minutes.**
-- Demo must run on **Oldskool 8-bit & 16-bit platform.** or **Oldskool 32-bit & 64-bit platform.**
+- Demo must run on **Oldskool 8-bit & 16-bit platform.**
 - Demo must be launchable using the standard procedure for that platform. If in doubt then please ask us.
 - While there is no specified size limit, we still expect it to be reasonable in the context of the platform you're releasing on.
 - When submitting:
   - You must specify the applicable exact hardware configuration the entry is made for, e.g. type of machine, PAL/NTSC, memory requirements, possible required add-ons, SID model, etc.
   - You must provide Internet distributable version of the entry, e.g. disk image, CD-ROM image, ZIP containing executable and data files, etc.
   - If your machine isn't listed in the supported compo machines then you must provide video capture from (preferably) real hardware. You can also request if we could accommodate you on the real hardware capture.
+- Oldskool compos might be combined if there are less than three entries per compo.
 
 ### Oldskool 8-bit & 16-bit platform
 
@@ -109,6 +110,20 @@ This is a combined demo competition for oldskool hardware in the 8-bit & 16-bit 
   - Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
   - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
 - If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please contact codise#1950 on Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
+
+## Oldskool demo 32-bit & 64-bit
+
+This is an demo competition for oldskool hardware in the 32-bit & 64-bit era. There's also separate one for the 8-bit & 16-bit era. So the point is to make a demo that runs on a legacy platform and shows & plays something interesting. Emulators or FPGA hardware can be used for development but the end-product should work and be tested on the real hardware. The division which hardware will go to the 8-bit & 16-bit compo or the 32-bit & 64-bit compo is somewhat arbitrary but the gist of it is to have somewhat similar powered platforms competiting against each other without dividing the compo too much. Also another goal was to accept a wide range of platforms and not only the demoscene classics like Commodore 64 or Amiga 500. Note that some hardware might be very oldskoolish but may not still fit the rules. In that case you can probably entry it to the Real Wild compo. Also any feedback on the division or which platforms should be included or removed are welcome with good argumentation.
+
+- Demo may not last longer than **8 minutes.**
+- Demo must run on **Oldskool 32-bit & 64-bit platform.**
+- Demo must be launchable using the standard procedure for that platform. If in doubt then please ask us.
+- While there is no specified size limit, we still expect it to be reasonable in the context of the platform you're releasing on.
+- When submitting:
+  - You must specify the applicable exact hardware configuration the entry is made for, e.g. type of machine, PAL/NTSC, memory requirements, possible required add-ons, SID model, etc.
+  - You must provide Internet distributable version of the entry, e.g. disk image, CD-ROM image, ZIP containing executable and data files, etc.
+  - If your machine isn't listed in the supported compo machines then you must provide video capture from (preferably) real hardware. You can also request if we could accommodate you on the real hardware capture.
+  - Oldskool compos might be combined if there are less than three entries per compo.
 
 ### Oldskool 32-bit & 64-bit platform
 
