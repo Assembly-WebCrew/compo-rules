@@ -4,11 +4,15 @@ Each competition's rules are regulated by the following general rules as well as
 
 The rules are intended to be compact and precise. We advise you to read them carefully and use conservative planning with respect to deadlines and other limits. If in doubt, please contact CompoCrew for clarification.
 
-- The author of an entry or his designated proxy must be present at the party to be eligible to participate in graphics or music compos and to receive any prizes the entry might win.
+- Votekey can be obtained by purchase of a ticket that is valid through prizegiving.
 
-- Remote entries are accepted for real time compos. Purchase of a ticket is required to vote.
+- Partyman will allow entrying depending on votekey status.
 
-- Competition entries must be uploaded to the competition system before the given deadline.
+  - Competitions that allow remote entries, can be submitted without a votekey.
+
+  - Competitions that do not allow remote entries, require the artist or representative to submit the entry using a votekey.
+
+- A ticket is mandatory in order to qualify for prizes. Artist or representative can be present at prizegiving to collect any prizes. Physical prizes may not be mailed after the party.
 
 - All deadlines are hard deadlines. There is no update deadline anymore. However, if you are in trouble and need more time, contact the compo organizer.
 
