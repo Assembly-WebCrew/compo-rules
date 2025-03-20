@@ -4,7 +4,7 @@ Each competition's rules are regulated by the following general rules as well as
 
 The rules are intended to be compact and precise. We advise you to read them carefully and use conservative planning with respect to deadlines and other limits. If in doubt, please contact CompoCrew for clarification.
 
-- The author of an entry or his designated proxy must be present at the party to be eligible to participate in graphics or music compos and to receive any prizes the entry might win.
+- The author of an entry or his designated proxy must be present at the party to be eligible to participate in graphics or music compos and to receive any prizes the entry might win. A valid IBAN is mandatory for any money prizes to be paid out.
 
 - Remote entries are accepted for real time compos. Purchase of a ticket is required to vote.
 
