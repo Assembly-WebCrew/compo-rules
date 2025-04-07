@@ -44,71 +44,30 @@
 This is a combined demo competition for oldskool hardware in the 8-bit & 16-bit & 32-bit & 64-bit era. So the point is to make a demo that runs on a legacy platform and shows & plays something interesting. Emulators or FPGA hardware can be used for development but the end-product should work and be tested on the real hardware. One goal for these rules was to accept a wide range of platforms and not only the demoscene classics like Commodore 64 or Amiga 500. Note that some hardware might be very oldskoolish but may not still fit the rules. In that case you can probably entry it to the Real Wild compo. Also any feedback on the division or which platforms should be included or removed are welcome with good argumentation.
 
 - Demo may not last longer than **8 minutes.**
-- Demo must run on **Oldskool 8-bit & 16-bit platform.** or **Oldskool 32-bit & 64-bit platform.**
+- Demo must run on **Oldskool 8-bit & 16-bit platform.** or **Oldskool 32-bit & 64-bit platform.** see below for details
 - Demo must be launchable using the standard procedure for that platform. If in doubt then please ask us.
 - While there is no specified size limit, we still expect it to be reasonable in the context of the platform you're releasing on.
 - When submitting:
   - You must specify the applicable exact hardware configuration the entry is made for, e.g. type of machine, PAL/NTSC, memory requirements, possible required add-ons, SID model, etc.
   - You must provide Internet distributable version of the entry, e.g. disk image, CD-ROM image, ZIP containing executable and data files, etc.
-  - If your machine isn't listed in the supported compo machines then you must provide video capture from (preferably) real hardware. You can also request if we could accommodate you on the real hardware capture.
+  - You must provide high quality video capture. We may be able to assist with that, see below.
+- Capturing the entry
+  - Preferably make your own video capture. Ensure high bitrate so that it runs artifact free.
+  - Emulator or FPGA capture is discouraged and should be the last resort.
+  - We may be able to assist with the capture at the party place. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
+  - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
+- If you have questions about the oldskool compos, please contact mattip Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
 
 ### Oldskool 8-bit & 16-bit platform
 
 - Any oldskool home computer, home console or handheld console which has at most 16-bit data bus.
-  - including and up to 4th generation of video game consoles [http://en.wikipedia.org/wiki/History_of_video_game_consoles_(fourth_generation](http://en.wikipedia.org/wiki/History_of_video_game_consoles_(fourth_generation))
-  - including and up to 5th generation of handhelds [http://en.wikipedia.org/wiki/History_of_video_game_consoles_(fifth_generation)](http://en.wikipedia.org/wiki/History_of_video_game_consoles_(fifth_generation))
+  - including and up to 4th generation of video game consoles [https://en.wikipedia.org/wiki/Fourth_generation_of_video_game_consoles](https://en.wikipedia.org/wiki/Fourth_generation_of_video_game_consoles)
+  - including and up to 5th generation of handhelds [https://en.wikipedia.org/wiki/Fifth_generation_of_video_game_consoles](https://en.wikipedia.org/wiki/Fifth_generation_of_video_game_consoles)
   - examples: C64, Atari 2600, VIC-20, ZX Spectrum, Amiga 500, Atari ST(e), NES, SNES, Mega Drive, Game Boy Color, etc.
 - Modern mass storage devices are allowed however, but the production must run equally well when loaded from a period correct tape/disk drive if applicable to the platform.
 - Vintage add-on devices which expand the standard configuration are allowed but must be clearly stated. E.g. turbo cards with vintage CPUs.
 - FPGA based reimplementations of computers, FPGA CPUs and devices which are considerably newer than the ones listed here are not allowed. These can be submitted to Real Wild compo.
 - Note that FPGA solutions for peripherals are OK (such as the Ultimate1541 cartridge) - we're talking full computers here, not multi-cart or storage add-ons.
-- We will provide captures from at least the following hardware:
-  - Amiga 500 / PAL
-    - OCS
-    - 68000 / 7 MHz
-    - 512 kB Chip RAM / 512 kB Trapdoor RAM
-    - Kickstart 1.3
-    - Rev 6a, Fat Agnus 8372A, regular Denise 8362R8
-    - real floppies or HXC SD MAX floppy emulator
-    - No hard disk
-    - c0pperdragon & hoglet67 RGB2HDMI
-  - Sharp X68000 XVI
-    - 68000 / 10 or 16 MHz
-    - 4 MB RAM
-    - hard disk only, floppy drive has some issues
-  - Atari STe / PAL
-    - 68000 / 8 MHz
-    - 4 MB RAM
-    - TOS 1.62 or 2.06
-    - real floppies or HXC SD MAX floppy emulator
-    - possible Ultrasatan + HDDRIVER (untested at the time of writing)
-  - Commodore 64 / PAL
-    - SID 6581 and 8580 are available, please specify which SID you want to hear
-    - Action Replay 6
-    - 1541-II
-    - or 1541 Ultimate II
-  - Philips NMS-8245 / PAL
-    - MSX 2
-    - Z80 @ 3.59 MHz
-    - 128kB RAM 
-    - real 720 kB floppy or hard disk via Carnivore 2 / MegaFlashROM
-    - optional cartridges: Carnivore 2, MegaFlashROM SCC+ SD + 512 kB, Panasonic FM-PAC, real SCC, Moonsound
-  - Panasonic FS-A1 WSX / NTSC-J
-    - MSX 2+
-    - Toshiba T9769C 3.59 MHz / 5.36 MHz (turbo mode)
-    - 512 kB internal RAM
-    - real 720 kB floppy or hard disk via Carnivore 2 / MegaFlashROM
-    - optional cartridges: Carnivore 2, MegaFlashROM SCC+ SD + 512 kB, real SCC, Moonsound
-  - NEC PC Engine / NTSC-J
-    - Turbo Everdrive V2
-- Capturing the entry
-  - If you wish that we make the capture the please contact us preferably well before the deadline so we can check if the hardware is still working, bring the hardware to the compo base and make sure capturing actually works.
-  - If your intended hardware isn't listed in the capture hardware list then please ask preferably well before the deadline if we could provide the video capture from the hardware anyways.
-  - Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
-  - Or make your own real hardware capture.
-  - Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
-  - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
-- If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please contact codise#1950 on Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
 
 ### Oldskool 32-bit & 64-bit platform
 
@@ -123,40 +82,6 @@ This is a combined demo competition for oldskool hardware in the 8-bit & 16-bit 
   - On PC platform 3D accelerator cards are not allowed as they would exceed the compo machine specification.
 - FPGA based reimplementations of computers, FPGA CPUs and devices which are considerably newer than the ones listed here are not allowed. These can be submitted to Real Wild compo.
   - Note that FPGA solutions for peripherals are OK (such as the PSIO flash cartridge) - we're talking full computers here, not multi-cart or storage add-ons.
-- We will provide captures from at least the following hardware:
-  - Pentium 133 MHz
-    - S3 86C775 graphics card
-    - Gravis Ultrasound Extreme (SB Pro compatible)
-    - 32 MB RAM
-    - MS-DOS 6.22
-  - Pentium MMX 233 MHz
-    - Not fully tested at the time of writing: small changes are possible!
-    - S3 Trio64V2/DX (or some very similarly compatible)
-    - Voodoo 1 (4 MB)
-    - SB AWE 64 Gold (or at least SB16)
-    - Gravis Ultrasound PnP (or some GUS)
-    - 32 MB RAM
-    - Windows 95 / MS-DOS 7
-  - NEC PC-9821 Ap/U7
-    - CPU switchable: AMD 5x86 @ 66 MHz (full RAM) / AMD 486SX 16Mhz (full RAM) / NEC V30 10MHz (only 640 kB RAM)
-    - ~15.3 MB RAM
-    - Integrated PEGC graphics (EGC + 256 color mode), no Window Accelerator
-    - Built in PC-9821-86 YM2608 + PCM + added Chibioto
-    - hard disk or 3.5" 1.2 MB real floppy
-    - NEC MS-DOS 6.2
-  - Amiga 1200 (AGA) / PAL
-    - Blizzard 1260: 68060 @ 50 MHz
-    - 2MB Chip RAM / 80 MB Fast RAM
-    - no RTG or AHI
-    - Kickstart 3.1
-- Capturing the entry
-  - If you wish that we make the capture the please contact us preferably well before the deadline so we can check if the hardware is working, bring the hardware to the compo base and make sure capturing actually works.
-  - If your intended hardware isn't listed in the capture hardware list then please ask preferably well before the deadline if we could provide the video capture from the hardware anyways.
-  - Or bring the hardware yourself to us for recording. We can accommodate most kinds of video signal but if yours is really special, don't hesitate to contact us in advance.
-  - Or make your own real hardware capture.
-  - Or make your own emulator or FPGA capture but this is discouraged and should be the last resort.
-  - In any case you should make sure the entry works with the real oldskool hardware and not only with emulators or FPGA reimplementations.
-- If you have questions about the oldskool compos, available hardware or you are unsure if your BYOD hardware is eligible to participate, please contact codise#1950 on Discord or codise on IRCnet or please send an email to: oldskool-contact@assembly.org
 
 ## Game Development
 
