@@ -16,9 +16,9 @@
 ## Demo
 
 - Demo may not last longer than **8 minutes.**
+- 2gb size limit for the compressed archive
 - Entry must run on a **Desktop platform.**
 - The user has to be able to exit at any time by pressing a key. On PC this key must be ESC.
-- While there is no specified size limit, we still expect it to be reasonable (i.e. something that fits on an average USB stick). As long as you can deliver it to us either by uploading through the party system or on a physical medium.
 
 ## 1K Intro
 
