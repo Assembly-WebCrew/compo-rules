@@ -35,7 +35,7 @@ Fast music competitions started off with trackers, and the entries were made wit
 - No software restrictions (usually).
 - Submit the finished tune into the compo system before the competition deadline.
 
-## 8CH TRACKED MUSIC 2021
+## 8CH TRACKED MUSIC
 
 The tracked music compo will be held at the Scene Lounge, and has different file formats than the other music competitions.
 - Maximum size: 1 MB (1048576 bytes)
@@ -44,7 +44,7 @@ The tracked music compo will be held at the Scene Lounge, and has different file
 - If your song loops, the song will be faded out after the first loop
 - Allowed formats: MOD, S3M, XM and IT
 - Please provide a recording of your entry in MP3 (256kbps or higher), OGG (256kbps or higher) or WAV format.
-- Entries will be played in XMPlay with following settings:
+- Entries will be played in Trackmeister with following settings:
   - MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
   - S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
 - All entries must be 100% original and unreleased.
