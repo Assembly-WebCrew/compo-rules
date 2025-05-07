@@ -6,9 +6,9 @@
 - All entries must be 100% original and unreleased. No covers, no remixes, no copyrighted samples or other copyrighted material.
 - If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!
 - Generative AI may not be used for significant portions of the song, such as entire vocal or instrument tracks.
-- Supported formats are 320kbps MP3, HQ OGG, WAV and FLAC
+- Supported formats are 320kbps MP3, HQ OGG, WAV, and FLAC.
 - A preselection jury will be held to comply with the time limit of each compo (typically 45 minutes). So do your best! If your entry is not shown, it will not be released by Assembly.
-- It is up to you (not organisers) to submit to a suitable competition. Submitting to a wrong category (e.g. ambient music to the dance music competition) will simply result in a low jury score or disqualification.
+- It is up to you (not organisers) to submit to a suitable competition. Submitting to the wrong category (e.g., ambient music to the dance music competition) will simply result in a low jury score or disqualification.
 - Volume control (ReplayGain or similar) will be applied. It is recommended to normalise the volume of your entry, but making it as loud as possible by excessive compression gives no advantage in the competition.
 
 ## Listening music
@@ -38,17 +38,16 @@ Fast music competitions started off with trackers, and the entries were made wit
 ## 8CH TRACKED MUSIC
 
 The tracked music compo will be held at the Scene Lounge, and has different file formats than the other music competitions.
-- Maximum size: 1 MB (1048576 bytes)
-- Maximum length: 3 minutes, if your song is longer the song will be faded out after 3min.
+- Maximum size: 1 MB (1,048,576 bytes)
+- Maximum length: 3 minutes. If your song is longer, it will be faded out after 3 minutes.
 - Maximum amount of channels you can use is eight (8).
-- If your song loops, the song will be faded out after the first loop
-- Allowed formats: MOD, S3M, XM and IT
-- Please provide a recording of your entry in MP3 (256kbps or higher), OGG (256kbps or higher) or WAV format.
-- Entries will be played in Trackmeister with following settings:
+- If your song loops, it will be faded out after the first loop.
+- Allowed formats: MOD, S3M, XM, and IT.
+- Please provide a recording of your entry in MP3 (256kbps or higher), OGG (256kbps or higher), or WAV format.
+- Entries will be played in Trackmeister with the following settings:
   - MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
   - S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
 - All entries must be 100% original and unreleased.
 - No remixes, no copyrighted material.
-- If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!!
+- If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!
 - Remote entries are ALLOWED!
-
