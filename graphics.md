@@ -21,7 +21,7 @@
 - The resolution of the unfinished pictures must be at least the same as the resolution of the final picture, but you can also submit higher resolution pictures.
 - Order the unfinished stages of the picture by renaming the files with appropriate prefixes (f.i. “stage1.png”, “stage2.png”) and put them into a subdirectory called “unfinished” in the ZIP archive.
 - You can use any technique you want to produce the picture: you can draw on paper and scan that picture, take a photograph and retouch it, use a 3D modeller tool, draw pixel by pixel or do whatever you want.
-- Write the techniques used in the PMS while submitting the image, maximum of 5 words (i.e., “Scanned photo + editing”, “3DS Max + light photoshopping”, “completely vector based”, “Composition of multiple methods”).
+- Write the techniques used in the PMS while submitting the image, maximum of 5 words (i.e. “Scanned photo + editing”, “3DS Max + light photoshopping”, “completely vector based”, “Composition of multiple methods”).
 - You may also include the image in source or vector format in the submission package, if the size of the package does not exceed 10 MB.
 - While you are allowed to use stock photos in your entry, clearly the major part of the entry must be the result of your own creativity. Use only stock photos you have the rights to.
 - The AI tools of Adobe® Photoshop® or similar software in the Freestyle Graphics compo are prohibited.
