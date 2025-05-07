@@ -55,7 +55,7 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
   - Preferably make your own high-bitrate capture.
   - Emulator or FPGA capture is discouraged and should be a last resort.
   - Ensure your entry works on real hardware.
-- For questions, contact mattip on Discord, codise on IRCnet, or email: oldskool-contact@assembly.org.
+- For questions, contact mattip on Discord, or email: <oldskool-contact@assembly.org>.
 
 ### Oldskool 8-bit & 16-bit platform
 
