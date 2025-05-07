@@ -2,7 +2,7 @@
 
 ## Real Wild
 
-- Platform can be anything that can run **real-time graphics!** This includes any hardware (e.g., iPods, oscilloscopes, LCD displays) or software platforms/interpreters/emulators running on modern hardware.
+- Platform can be anything that can run **real-time graphics!** This includes any hardware (e.g. iPods, oscilloscopes, LCD displays) or software platforms/interpreters/emulators running on modern hardware.
 - If your demo can be run on both real hardware and an emulator on PC, it is preferred to run it on real hardware. For avoidance of doubt, all real-time rendered graphics demos that don't fit in the demo competition or the Oldskool demo competition will fit here in terms of platform.
 - The demo must be delivered in **both executable** (if possible) **and a video file** – see the Short Film rules about allowed formats.
 - If you don't have the necessary hardware to record the video on your own, contact the organizers to set up a recording session. Do this one week prior to the party. We will be glad to help!
@@ -20,5 +20,5 @@
 
 - The production must be submitted in a video format supported by VLC for Windows.
 - The film may not last longer than **5 minutes**.
-- Computer-generated pieces of art (e.g., animations, machinima, etc.) are preferred over plain home video types of entries. From now on, you can submit any videos of real-time generated graphics on odd devices to the Real Wild demo competition.
+- Computer-generated pieces of art (e.g. animations, machinima, etc.) are preferred over plain home video types of entries. From now on, you can submit any videos of real-time generated graphics on odd devices to the Real Wild demo competition.
 - Remote entries are allowed.

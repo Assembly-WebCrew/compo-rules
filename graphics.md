@@ -7,7 +7,7 @@
 - The only supported image formats are PNG and JPG. Only RGB colour space allowed – no CMYK images.
 - If the original image was in vector format, you may include the image in the submission package also in SVG format. However, the PNG or JPEG image will be the primary submission and will be shown on the big screen.
 - Pictures will be shown in 1920x1080 resolution with full 24-bit color depth.
-- Submit a version of the final image with NO visible signature. Name this file with “_nosig” prefix (e.g., “cool_image.png” for the final image and “cool_image_nosig.png” for unsigned version of the same image).
+- Submit a version of the final image with NO visible signature. Name this file with “_nosig” prefix (e.g. “cool_image.png” for the final image and “cool_image_nosig.png” for unsigned version of the same image).
 - You don't have to submit an image with a signature, only an unsigned version is necessary.
 - A text file named "readme.txt" stating used techniques and sources of any material used in the entry must be submitted. If possible, we will tell the information about the techniques when showing the pictures on the big screen and when voting for them in the entry/votesystem.
 - Once more: entries without a no-signature version will be disqualified.
@@ -16,7 +16,7 @@
 
 - The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
 - You must submit clear evidence of the process of creating the freestyle graphics competition picture in the form of at least SIX versions of the unfinished picture that show the creation process.
-- This means that the different steps of the process (e.g., outline, coloring, retouching) are shown in different files from different points in time when the picture is being created.
+- This means that the different steps of the process (e.g. outline, coloring, retouching) are shown in different files from different points in time when the picture is being created.
 - If you are using a modeler, it is not sufficient to submit six pictures of the final picture from different viewpoints! If you are using a photograph, take a few extra shots and include them as proof.
 - The resolution of the unfinished pictures must be at least the same as the resolution of the final picture, but you can also submit higher resolution pictures.
 - Order the unfinished stages of the picture by renaming the files with appropriate prefixes (f.i. “stage1.png”, “stage2.png”) and put them into a subdirectory called “unfinished” in the ZIP archive.

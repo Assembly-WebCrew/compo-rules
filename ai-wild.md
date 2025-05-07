@@ -20,7 +20,7 @@
 
     - Place the art piece into the folder, in the format it came out of the AI tool. Do not remove any metadata from the file. Name it the same as the folder.
 
-    - Place information about the system used (e.g., ComfyUI), model checkpoint, LoRA, LyCORIS, and any plugins used into a text file called “system_info.txt” (mytitle/system_info.txt)
+    - Place information about the system used (e.g. ComfyUI), model checkpoint, LoRA, LyCORIS, and any plugins used into a text file called “system_info.txt” (mytitle/system_info.txt)
     
     - Create another folder inside this folder called “process” (mytitle/process)
 

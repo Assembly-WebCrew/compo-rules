@@ -8,7 +8,7 @@
 - Generative AI may not be used for significant portions of the song, such as entire vocal or instrument tracks.
 - Supported formats are 320kbps MP3, HQ OGG, WAV, and FLAC.
 - A preselection jury will be held to comply with the time limit of each compo (typically 45 minutes). So do your best! If your entry is not shown, it will not be released by Assembly.
-- It is up to you (not organisers) to submit to a suitable competition. Submitting to the wrong category (e.g., ambient music to the dance music competition) will simply result in a low jury score or disqualification.
+- It is up to you (not organisers) to submit to a suitable competition. Submitting to the wrong category (e.g. ambient music to the dance music competition) will simply result in a low jury score or disqualification.
 - Volume control (ReplayGain or similar) will be applied. It is recommended to normalise the volume of your entry, but making it as loud as possible by excessive compression gives no advantage in the competition.
 
 ## Listening music

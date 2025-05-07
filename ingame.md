@@ -1,6 +1,6 @@
 # In-Game
 
-These competitions are for content created inside games, e.g., in-game screenshots and videos recorded from a game.
+These competitions are for content created inside games, e.g. in-game screenshots and videos recorded from a game.
 
 - No 3rd party renderers allowed. This means that extracting game assets and rendering them outside the game they are from is not allowed.
 - Modded games are allowed, but the mods must be publicly available and within the limits of good taste.
@@ -20,7 +20,7 @@ These competitions are for content created inside games, e.g., in-game screensho
 - Picture must be previously unreleased.
 - Since this is a photo competition, make art!
 - Pictures will be shown in 1920x1080 resolution with full 24-bit color depth.
-- Submit a version of the final image with NO visible signature. Name this file with a “_nosig” prefix (e.g., “cool_image.png” for the final image and “cool_image_nosig.png” for the unsigned version of the same image).
+- Submit a version of the final image with NO visible signature. Name this file with a “_nosig” prefix (e.g. “cool_image.png” for the final image and “cool_image_nosig.png” for the unsigned version of the same image).
 - You don't have to submit an image with a signature, only an unsigned version is necessary.
 - A text file named "readme.txt" stating used techniques and sources of any material used in the entry must be submitted. If possible, we will tell the information about the techniques when showing the pictures on the big screen and when voting for them in the entry/votesystem.
 - Once more: entries without a no-signature version will be disqualified.

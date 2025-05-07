@@ -49,7 +49,7 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
 - No size limit, but it must be reasonable in the context of the platform.
 - When submitting:
   - Specify the exact hardware configuration: machine type, PAL/NTSC, memory, required add-ons, SID model, etc.
-  - Provide an internet-distributable version (e.g., disk image, CD-ROM image, or ZIP with executable and data files).
+  - Provide an internet-distributable version (e.g. disk image, CD-ROM image, or ZIP with executable and data files).
   - Provide a high-quality video capture. We may assist at the party place.
 - Capturing the entry:
   - Preferably make your own high-bitrate capture.
@@ -64,20 +64,20 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
   - Examples: C64, Atari 2600, VIC-20, ZX Spectrum, Amiga 500, Atari ST(e), NES, SNES, Mega Drive, Game Boy Color, etc.
 - Modern mass storage is allowed but must work from period-correct media where applicable.
 - Vintage add-ons are allowed but must be clearly stated.
-- Full FPGA systems are not allowed (submit to Real Wild). FPGA peripherals (e.g., Ultimate1541) are allowed.
+- Full FPGA systems are not allowed (submit to Real Wild). FPGA peripherals (e.g. Ultimate1541) are allowed.
 
 ### Oldskool 32-bit & 64-bit platform
 
 - Any home computer, console, or handheld with a 32-bit or 64-bit CPU, with limits:
   - Amiga/PC must run on compo machines or equivalent.
-  - Consoles: part of 5th-gen (e.g., PS1, Saturn, N64).
-  - Handhelds: similar spec to others listed (e.g., GBA, N-Gage, DS).
+  - Consoles: part of 5th-gen (e.g. PS1, Saturn, N64).
+  - Handhelds: similar spec to others listed (e.g. GBA, N-Gage, DS).
   - Other platforms must be similar spec – ask for verification.
   - Examples: Pentium 133 MHz, Amiga AGA/060, Atari Falcon, PS1, Saturn, 3DO, N64, DS.
 - Modern mass storage is allowed but must also run from period-correct media.
 - Vintage CPU turbo cards are allowed and must be declared.
   - PC 3D accelerator cards are not allowed if they exceed compo spec.
-- Full FPGA systems are not allowed. FPGA peripherals (e.g., PSIO flash cart) are OK.
+- Full FPGA systems are not allowed. FPGA peripherals (e.g. PSIO flash cart) are OK.
 
 ## Game Development
 
@@ -87,7 +87,7 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
   - Max **3 minutes** showing time (game itself can be longer).
   - Recommended: submit a presentation video in the short film format.
 - The game must be **playable!**
-- Must allow exiting at any time (e.g., ESC or menu).
+- Must allow exiting at any time (e.g. ESC or menu).
 - The game may write settings/saves/high scores to disk/registry.
 - May use network connections.
 - PC version must support **1080p resolution**.
