@@ -27,7 +27,7 @@ The rules are intended to be compact and precise. We advise you to read them car
 
 - Organizers reserve the right to disqualify a production containing explicit sexual, racist, or disturbing material or breaking any rule applicable to the particular competition.
 - Organizers reserve the right to change any and all prizes and prize principles in any competition. This applies especially to competitions where the quality or number of productions is too low to justify the full prize amount.
-- To receive a physical prize, you or your representative must be at the prize-giving ceremony.
+- To receive a physical prize, you or your representative must attend the prize-giving ceremony.
 
 - Organizers reserve the right to augment or modify the competition rules if deemed necessary, especially to clarify ambiguities or resolve contradictions in the rules.
 - Note that you MAY NOT use ANY music for which you haven't acquired the necessary copyrights and permissions. This means that you have either composed the music yourself or have received permission from the original author, who is not a member of any copyright association such as Teosto or Gramex. If the music has been published on a record label, it is then most probably controlled by Teosto and Gramex; thus, it is impossible for you to get any permission to use it in your work for free. You will be liable for any and all possible copyright infringements caused by your work.
