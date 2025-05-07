@@ -20,7 +20,7 @@ The rules are intended to be compact and precise. We advise you to read them car
 - No purely AI-generated content is allowed unless it is specifically allowed by individual competition rules. While we do recognize that AI-generated content can provide assistance or inspiration, the majority of the submitted entry must consist of own/group work.
 
 - You must own or have permission to use all the material present in your production. In case of a potential copyright infringement problem, it is your duty to prove this. Please read the copyright FAQ.
-- Don't use trademarked or copyrighted content such as logos without permission. If you believe your use of trademarked or copyrighted content falls under fair use rules according to Finnish copyright law, contact us in advance to verify this.
+- Don't use trademarked or copyrighted content such as logos without permission. There is no equivalent to "fair use" under Finnish copyright law, so entries relying on it will not be accepted.
 - Please note that Finnish copyright law doesn't make exceptions for fan art.
 
 - You must accept the competition contract when submitting your entry. This contract governs the rights and responsibilities of you and the event organizers.
