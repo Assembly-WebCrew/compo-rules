@@ -1,5 +1,5 @@
 # Beginner Demo Competition
-This competition is only for beginners. Remember that this competition is more about taking part, learning, and cheering for everyone than taking it too serious!
+This competition is only for beginners. Remember that this competition is more about taking part, learning, and cheering for everyone than taking it too seriously!
 
 [General rules](./general.md) and [Demo competition rules](./realtime.md) apply with the following addition:
 
