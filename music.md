@@ -20,7 +20,7 @@ No restrictions! Make the track you have always wanted to do with the platform o
 
 ## Dance music
 
-Turn the main hall into a party arena!
+Make people dance!
 - See general music rules.
 - Your tune must have a danceable beat and character, no restrictions otherwise.
 - Entry must be no longer than 3 minutes 30 seconds. Substantially exceeding this limit will result in disqualification (not fade-out)!
