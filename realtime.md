@@ -97,6 +97,6 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
 
 ## Fantasy Console
 
-- Allowed platforms: TIC-80, PICO-8, PICOTRON, Quadplay, Voxatron, and IBNIZ.
+- Allowed platforms: TIC-80, PICO-8, PICOTRON, Quadplay, Voxatron, MicroW8 and IBNIZ.
 - Entry can run on multiple cartridges (specify size in notes).
 - Production may not last longer than **5 minutes**.
