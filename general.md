@@ -13,7 +13,7 @@ The rules are intended to be compact and precise. We advise you to read them car
 - All deadlines are hard deadlines. There is no update deadline anymore. However, if you are in trouble and need more time, contact the compo organizer.
 
 - All material constituting an entry must be previously unreleased. This means that the material in the demo (e.g. graphics, music) has not been used in any previously released production.
-  - All assets (music, graphics, etc.) used in entries must be original. No covers, remixes, re-arrangements, or copyrighted samples are allowed.
+  - All assets (music, graphics, etc.) used in entries must be original. No covers, remixes, re-arrangements, or sampling of copywritten songs or other works.
   - You may, however, include material in your realtime or development entries that participates at the same event in the music or graphics competitions.
   - Also, you can include some previously released components in your work if they do not constitute the main portion of the work. For example, you can use previously released fonts and samples in creating your work if you have permission to use them.
   - After the entry has been shown in the compo, you are free to release or exhibit it.
