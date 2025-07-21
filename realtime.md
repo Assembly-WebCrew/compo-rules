@@ -50,7 +50,7 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
 - When submitting:
   - Specify the exact hardware configuration: machine type, PAL/NTSC, memory, required add-ons, SID model, etc.
   - Provide an internet-distributable version (e.g. disk image, CD-ROM image, or ZIP with executable and data files).
-  - Provide a high-quality video capture. For example: 1920×1080 resolution at 60 Hz, in MP4 format with a high bit rate. We may assist at the party place.
+  - Provide a high-quality video capture. For example: 1920×1080 resolution at 60 Hz, using x264 in an MP4 container with a high bit rate. We may assist at the party place.
 - Capturing the entry:
   - Preferably make your own high-bitrate capture.
   - Emulator or FPGA capture is discouraged and should be a last resort.
