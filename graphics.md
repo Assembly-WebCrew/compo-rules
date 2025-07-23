@@ -14,7 +14,7 @@
 
 ## Freestyle
 
-- The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above.
+- The image resolution must be 1920x1080 and must be submitted in supported file formats, see Graphics formats above. Feel free to make the image 1080x1920, but due to the letterboxing, it will appear smaller on screen and in the stream as well.
 - You must submit clear evidence of the process of creating the freestyle graphics competition picture in the form of at least SIX versions of the unfinished picture that show the creation process.
 - This means that the different steps of the process (e.g. outline, coloring, retouching) are shown in different files from different points in time when the picture is being created.
 - If you are using a modeler, it is not sufficient to submit six pictures of the final picture from different viewpoints! If you are using a photograph, take a few extra shots and include them as proof.
