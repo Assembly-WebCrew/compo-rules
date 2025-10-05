@@ -17,27 +17,9 @@
 
 - Demo may not last longer than **8 minutes.**
 - 2 GB size limit for the compressed archive.
-- Entry must run on a **Desktop platform.**
+- Entry must run on a **Desktop or Oldskool platform.**
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
-
-## 1K Intro
-
-- Maximum size in executable form is **1024 bytes.**
-- The file size of the intro will be shown on the screen before the entry is shown.
-- Intro may not last longer than **3 minutes.**
-- The production must be a *single file*. Additional info files are fine but will be deleted prior to running the intro.
-- Entry must run on a **Desktop or Oldskool platform**.
-- The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
-- For Oldskool entries, check the submitting instructions from the Oldskool compos rules.
-
-## 4K Intro
-
-- Maximum size in executable form is **4096 bytes.**
-- Intro may not last longer than **8 minutes.**
-- The production must be a *single file*. Additional info files are fine but will be deleted prior to running the intro.
-- Entry must run on a **Desktop or an Oldskool platform**.
-- The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
-- For Oldskool entries, check the submitting instructions from the Oldskool compos rules.
+- For Oldskool entries, see Oldskool compo rules.
 
 ## Oldskool demo combined
 
@@ -79,24 +61,3 @@ This is a combined demo competition for Oldskool hardware in the 8-bit, 16-bit, 
   - PC 3D accelerator cards are not allowed if they exceed compo spec.
 - Full FPGA systems are not allowed. FPGA peripherals (e.g. PSIO flash cart) are OK.
 
-## Game Development
-
-- All entries must be previously unreleased (no Game Jams, Steam/App Store pages, trailers, etc.).
-- Entry must run on a **Desktop, Oldskool, or Mobile platform.**
-- Presentation:
-  - Max **3 minutes** showing time (game itself can be longer).
-  - Recommended: submit a presentation video in the short film format.
-- The game must be **playable!**
-- Must allow exiting at any time (e.g. ESC or menu).
-- The game may write settings/saves/high scores to disk/registry.
-- May use network connections.
-- PC version must support **1080p resolution**.
-- Submit a **screenshot** along with the entry.
-- Multi-platform support allowed (Windows, Java, Linux, Mac, 3DS, Android, iOS, etc.).
-- For Oldskool entries, see Oldskool compo rules.
-
-## Fantasy Console
-
-- Allowed platforms: TIC-80, PICO-8, PICOTRON, Quadplay, Voxatron, MicroW8, and IBNIZ.
-- Entry can run on multiple cartridges (specify size in notes).
-- Production may not last longer than **5 minutes**.
