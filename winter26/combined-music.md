@@ -18,4 +18,4 @@ No restrictions! Make the track you have always wanted to do with the platform o
 - See general music rules.
 - All platforms and techniques are allowed: modern DAWs, trackers, oldskool platforms (C64, Amiga, etc.), or anything else.
 - Entries made on oldskool platforms or in tracker formats must be converted and submitted as MP3 or FLAC.
-- Entry must be no longer than 3 minutes 30 seconds. Substantially exceeding this limit will result in disqualification (not fade-out)!
+- Entry must be no longer than 3 minutes 30 seconds. Exceeding this limit will result in disqualification (not fade-out)!
