@@ -1,5 +1,7 @@
 # Combined Music
 
+Refer to the [General rules](./general.md) with the following additions:
+
 ## General music rules
 
 - There are no restrictions on composing techniques. Just make sure it's an original piece and in a supported format.
@@ -19,3 +21,5 @@ No restrictions! Make the track you have always wanted to do with the platform o
 - All platforms and techniques are allowed: modern DAWs, trackers, oldskool platforms (C64, Amiga, etc.), or anything else.
 - Entries made on oldskool platforms or in tracker formats must be converted and submitted as MP3 or FLAC.
 - Entry must be no longer than 3 minutes 30 seconds. Exceeding this limit will result in disqualification (not fade-out)!
+
+Remote entries are welcome.
