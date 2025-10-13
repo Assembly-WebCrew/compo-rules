@@ -11,7 +11,7 @@ Entries may target any generally available platform, including but not limited t
 - Fantasy consoles and virtual platforms: PICO-8, TIC-80, Picotron, Quadplay, Voxatron, IBNIZ, etc.
 - Other accessible environments: WebGL, DOS, Java, or similar software environments.
 
-If your entry requires custom or one-off hardware (FPGA, microcontroller, mechanical devices, etc.), please submit it to Real Wild instead.
+If your entry requires custom or one-off hardware (FPGA, microcontroller, mechanical devices, etc.), please submit it to Wild (with AI) instead.
 
 - Demos may be up to 8 minutes long but organizers may choose to stop the production before the end.
 - Entry must be in executable form — plain video playback or rendered animations are not allowed.
