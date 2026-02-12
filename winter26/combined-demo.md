@@ -24,7 +24,7 @@ Guidelines to follow if applicable to your platform
 - The demo must be launchable using the normal method for the platform (e.g. EXE, cartridge, disk image, web player, etc.).
 - The demo may not modify system settings permanently. Use temporary files only where applicable.
 - The mouse cursor must be hidden during playback.
-- The demo must allow exit at any time (e.g. ESC key, or standard quit method on other platforms).
+- The demo must allow exit at any time (e.g. ESC key, or standard quit method on other platforms. However, with for example C64 this may not be possible or common, so you can ignore this for that kind of platform).
 - Windows intros: we recommend not using import by ordinal for DLLs with non-fixed ordinals to ensure better compatibility.
 
 When submitting please provide:
