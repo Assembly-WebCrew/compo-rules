@@ -51,3 +51,23 @@ The tracked music compo will be held at the Scene Lounge, and has different file
 - No remixes, no copyrighted material.
 - If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!
 - Remote entries are ALLOWED!
+
+## OLDSKOOL MUSIC
+
+The oldskool music compo will be held at the Scene Lounge, and has different file formats than the other music competitions.
+
+- Maximum size: 64 KB (65,536 bytes)
+- Maximum length: 3 minutes. If your song is longer, it will be faded out after 3 minutes.
+- Maximum pre-calculation time: 30 seconds.
+- If your song loops, it will be faded out after the first loop.
+- Screen contents will not be displayed so don’t waste your time creating fancy effects.
+- All entries must be 100% original and unreleased.
+- No remixes, no copyrighted material.
+- Allowed platforms: Commodore 64, Sega Master System, Sega Mega Drive, Super Nintendo, Atari ST, Atari 8bit, ZX Spectrum 48k / 128k, MS-DOS (AdLib/OPL), Game Boy, and NES.
+- The entry must also be delivered as an **executable program** or a recognized standard file format (such as .SID, .VGM, .PRG) that can be played on the target platform.
+- **You need to provide us with a recording from real hardware** in MP3 (256kbps or higher), OGG (256kbps or higher), WAV, or FLAC format.
+- For Commodore 64 entries, please inform the audience which SID Chip was used (6581 or 8580) on the submission form! 
+- If you are using Creative Commons or Public Domain material, state so in your entry form and cite the source! Do not forget to give credit where credit is due!!
+- Remote entries are ALLOWED!
+- **Standard Tracked Music (MOD, S3M, XM, IT) belongs in the Tracked Music competition**.
+
