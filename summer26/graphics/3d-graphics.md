@@ -2,7 +2,7 @@
 
 Refer to the [General rules](../general.md) with the following additions:
 
-This competition is for 3D-rendered still images. Use any tool you like (Blender, Maya, Cinema 4D, etc.) — submit the final rendered image.
+This competition is for 3D-rendered still images. Use any tool you like (Blender, Maya, Cinema 4D, etc.) - submit the final rendered image.
 
 - All scene content must be original and unreleased. No covers, copies, or reproductions of someone else's work.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.

@@ -22,7 +22,7 @@ This is a combined demo competition for oldskool hardware. The goal is to make a
   - Provide an internet-distributable version (e.g. disk image, CD-ROM image, or ZIP archive with executable and data files).
   - Provide a high-quality video capture. For example: 1920×1080 at 50 or 60 Hz, using x264 in an MP4 container with a high bit rate.
     - Captures from emulators or FPGA-based systems should only be used as a last resort.
-  - If you cannot make the capture yourself, we may be able to help — either (1) capturing from your hardware (we're on-site Thu–Fri), or (2) providing hardware ourselves. For (2), contact us at least a week before the party; note we don't have every listed platform.
+  - If you cannot make the capture yourself, we may be able to help - either (1) capturing from your hardware (we're on-site Thu–Fri), or (2) providing hardware ourselves. For (2), contact us at least a week before the party; note we don't have every listed platform.
 - For questions, contact codise on Discord, or email: <oldskool-contact@assembly.org>.
 
 ## Oldskool platform

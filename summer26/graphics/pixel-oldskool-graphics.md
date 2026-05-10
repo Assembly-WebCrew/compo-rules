@@ -16,13 +16,13 @@ A combined graphics competition for traditional pixeled graphics and legacy plat
 
 This is an oldschool pixeled graphics competition. It means that we're expecting to see entries that have been drawn pixel by pixel, by using old-fashioned techniques and not, for example, overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
 
-- The image resolution should be appropriate for pixel art — e.g. 320x240, 320x200, 256x192, 160x200, or other platform-native low-res size. 256 colors max.
+- The image resolution should be appropriate for pixel art - e.g. 320x240, 320x200, 256x192, 160x200, or other platform-native low-res size. 256 colors max.
 - Submit as PNG. No animation.
 - Submit one version of the final image with signature, one without signature and five (5) intermediate steps to show the process of pixeling the image. Name the files clearly.
 
 ## Legacy platform native formats
 
-This is a graphics competition for legacy platforms in their native formats — C64 multicolor, Amiga IFF, Atari ST, ZX Spectrum, NES, etc. The goal is to create artwork that respects the constraints of the original hardware (color palette, resolution, native format).
+This is a graphics competition for legacy platforms in their native formats - C64 multicolor, Amiga IFF, Atari ST, ZX Spectrum, NES, etc. The goal is to create artwork that respects the constraints of the original hardware (color palette, resolution, native format).
 
 - Entry must be created on a native format for the target platform (e.g. C64 multicolor, Amiga IFF/LBM, Atari ST .PI1/.NEO, ZX Spectrum .SCR).
 - Specify the platform and source format clearly in submission notes.
