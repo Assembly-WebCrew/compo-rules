@@ -18,7 +18,8 @@ This is an oldschool pixeled graphics competition. It means that we're expecting
 
 - The image resolution should be appropriate for pixel art - e.g. 320x240, 320x200, 256x192, 160x200, or other platform-native low-res size. 256 colors max.
 - Submit as PNG. No animation.
-- Submit one version of the final image with signature, one without signature and five (5) intermediate steps to show the process of pixeling the image. Name the files clearly.
+- Submit the final image with NO visible signature, using "_nosig" prefix (e.g. "cool_image_nosig.png"). Entries without an unsigned version will be disqualified. You may optionally include a signed version too.
+- Submit at least three (3) intermediate stages showing the process of pixeling. Name them with appropriate prefixes (e.g. "stage1.png", "stage2.png") and put them in an "unfinished" subdirectory in the ZIP archive.
 
 ## Legacy platform native formats
 

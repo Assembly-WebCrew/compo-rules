@@ -6,6 +6,7 @@ These general rules apply to all competitions. Compo-specific rules override the
 - Whether remote entries are allowed depends on the specific competition's rules. A ticket is not required for a remote entry but is required to vote.
 - The author or designated proxy must be present at the party to receive prizes. A valid IBAN is required for money prizes.
 - Submitting an entry means accepting the competition contract.
+- Maximum one entry per artist per competition. If you submit multiple, only one will be accepted.
 - AI-generated content is not allowed in any competition unless that competition's rules explicitly permit it.
 - You must own or have permission for all material in your entry - burden of proof is on you. See the copyright FAQ. No trademarked or copyrighted content (logos, etc.). Finnish copyright law has no "fair use".
 - Fan art using copyrighted characters or works is not allowed. With money prizes at stake this is enforced strictly.
