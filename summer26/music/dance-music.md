@@ -2,7 +2,13 @@
 
 Refer to the [General rules](../general.md) with the following additions:
 
-Make people dance!
+Music centered around rhythm and groove. The main focus is on the beat, repetition, and drive - typically intended for dancing, club environments, or rhythmic movement.
+
+Includes: Electronic dance music, techno, house, drum & bass, funk, disco, rhythmic pop, and similar styles.
+
+Typical traits: Strong and steady beat, repetitive rhythm patterns, tempo often 100–150 BPM.
+
+High energy alone doesn’t make a song fit this category - the rhythm and groove must be central to the composition.
 
 - All entries must be 100% original and unreleased. Covers and remixes are not allowed. Copyrighted samples or other copyrighted material is not allowed unless they are Creative Commons licensed.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
