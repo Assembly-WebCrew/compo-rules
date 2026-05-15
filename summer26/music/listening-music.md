@@ -2,7 +2,11 @@
 
 Refer to the [General rules](../general.md) with the following additions:
 
-No restrictions! Make the track you have always wanted to do with the platform of your choice.
+Music centered around melody, harmony, emotion, or storytelling rather than steady dance rhythm. The focus is on musicality, composition, and expression.
+
+Includes: Ambient, cinematic, metal, rock, classical, ballads, jazz, experimental, and hybrid styles.
+
+Typical traits: Variable tempo and dynamics, more complex structures, not primarily rhythm-locked.
 
 - All entries must be 100% original and unreleased. Covers and remixes are not allowed. Copyrighted samples or other copyrighted material is not allowed unless they are Creative Commons licensed.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
