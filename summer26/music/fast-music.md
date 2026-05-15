@@ -4,7 +4,7 @@ Refer to the [General rules](../general.md) with the following additions:
 
 Fast music competitions started off with trackers, and the entries were made with a strict time limit and the same set of samples for each contestant. Since then we've spiced things up by removing the use of samples, forcing specific chord changes, limiting the genre to italo and making people sing "Assembly 25 years" into their headphones, for example. What's in store for this year will be revealed at the party!
 
-- All entries must be 100% original and unreleased. No covers, no remixes, no copyrighted samples or other copyrighted material.
+- All entries must be 100% original and unreleased. Covers and remixes are not allowed. Copyrighted samples or other copyrighted material is not allowed unless they are Creative Commons licensed.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
 - AI may not be used to compose or generate the music.
 - You may not use any music for which you haven't acquired the rights. Most published music is controlled by Teosto/Gramex and is therefore not usable. You are liable for any infringements.

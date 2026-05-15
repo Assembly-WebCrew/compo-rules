@@ -4,7 +4,7 @@ Refer to the [General rules](../general.md) with the following additions:
 
 Make people dance!
 
-- All entries must be 100% original and unreleased. No covers, no remixes, no copyrighted samples or other copyrighted material.
+- All entries must be 100% original and unreleased. Covers and remixes are not allowed. Copyrighted samples or other copyrighted material is not allowed unless they are Creative Commons licensed.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
 - AI may not be used to compose or generate the music.
 - You may not use any music for which you haven't acquired the rights. Most published music is controlled by Teosto/Gramex and is therefore not usable. You are liable for any infringements.
