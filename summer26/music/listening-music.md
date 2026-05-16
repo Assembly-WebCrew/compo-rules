@@ -14,7 +14,7 @@ Typical traits: Variable tempo and dynamics, more complex structures, not primar
 - You may not use any music for which you haven't acquired the rights. Most published music is controlled by Teosto/Gramex and is therefore not usable. You are liable for any infringements.
 - There are no restrictions on composing techniques. Just make sure it's an original piece and in a supported format.
 - Supported formats are 320kbps MP3 and FLAC.
-- A preselection jury will be held to comply with the time limit (typically 45 minutes).
+- Listening music and Dance music share a combined compo block of approximately one hour. By default, the block is split evenly between the two compos, but the final allocation may be adjusted based on preselection jury scores. One compo may therefore receive more play time than the other.
 - Volume control (ReplayGain or similar) will be applied. Normalising the volume is recommended; loudness via excessive compression gives no advantage.
 - Entry must be no longer than 3 minutes 30 seconds. Exceeding this limit will result in disqualification.
 
