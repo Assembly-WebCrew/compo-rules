@@ -16,7 +16,7 @@ This competition is only for beginners. Remember that this competition is more a
 - A **screenshot** image must be submitted with the entry.
 - You must hide the **mouse cursor**.
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
-- Demo may not last longer than **8 minutes.**
+- Demo may not last longer than **5 minutes.**
 - Entry must run on a **Desktop platform.**
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
 - The creator(s) must be beginners in demo making and must either:
