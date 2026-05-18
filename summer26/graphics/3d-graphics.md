@@ -15,5 +15,7 @@ This competition is for 3D-rendered still images. Use any tool you like (Blender
 - Mesh has to be unpublished before the competition deadline
 - Submit a `readme.txt` listing tools used and creation process
 - Optionally include source files (Blender, FBX, etc.) under 50 MB
+- The compo time slot determines how many entries can be shown. If there are more entries than fit, a preselection jury will choose which to include.
+- Clear rule violations will result in disqualification - we do not request resubmissions.
 
 Remote entries are welcome.

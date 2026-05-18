@@ -22,5 +22,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - Write the techniques used in the PMS while submitting the image, maximum of 5 words (i.e. "digital painting", "completely vector based", "Composition of multiple methods").
 - You may also include the image in source or vector format in the submission package, if the size of the package does not exceed 10 MB.
 - While you are allowed to use stock photos in your entry, clearly the major part of the entry must be the result of your own creativity. Use only stock photos you have the rights to.
+- The compo time slot determines how many entries can be shown. If there are more entries than fit, a preselection jury will choose which to include.
+- Clear rule violations will result in disqualification - we do not request resubmissions.
 
 Remote entries are welcome.
