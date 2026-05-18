@@ -1,6 +1,6 @@
 # General rules
 
-These general rules apply to all competitions. Compo-specific rules override them where applicable. If in doubt, contact CompoCrew at <compo-contact@assembly.org>.
+These general rules apply to all competitions. Compo-specific rules override them where applicable. If in doubt, contact CompoCrew at <compo-contact@assembly.org> or on the #demoscene channel of the Assembly Discord server.
 
 - Entries must be uploaded to the competition system before the deadline. All deadlines are hard - contact the organizer if you're stuck.
 - Whether remote entries are allowed depends on the specific competition's rules. A ticket is not required for a remote entry but is required to vote.
