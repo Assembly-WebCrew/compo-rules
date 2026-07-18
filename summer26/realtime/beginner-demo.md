@@ -17,7 +17,7 @@ This competition is only for beginners. Remember that this competition is more a
 - You must hide the **mouse cursor**.
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
 - Demo may not last longer than **5 minutes.**
-- Entry must run on a **Desktop platform.**
+- Entry must run on a **Desktop platform**: the compo PC, which runs **Windows 11** and **Ubuntu 26.04 LTS**. Current hardware specs are listed on the demoscene competitions page.
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
 - The creator(s) must be beginners in demo making and must either:
   - Not have previously published any demos (procedural art) at demo parties. Groups must have a previously unused name to prevent name bias in voting ("namevoting"), **OR**
