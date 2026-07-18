@@ -12,6 +12,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - A **screenshot** image must be submitted with the entry.
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
 - Allowed platforms include but are not limited to: TIC-80, PICO-8, PICOTRON, Quadplay, Voxatron, MicroW8, and IBNIZ. Ask for verification on other platforms.
+- Entries which cannot be run on the compo machines will be disqualified. To prevent this, you can test your entry on the compo machines at CompoBase during the event, or ask us to test it for you. Do this early so you have time to fix any problems.
 - Entry can run on multiple cartridges (specify size in notes).
 - Production may not last longer than **5 minutes**.
 

@@ -10,7 +10,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - Entry must be in an **executable form**. Pure animation files are not allowed - executables that only include an animation and an animation player will not be accepted.
 - The production must work from **read-only media** and must not modify system settings (for example: Windows registry). However, you may use the platform's standard temporary directory during the execution of your entry for storing data, if such a service is available.
 - The production must show in a similar manner every time it is executed.
-- Entries which cannot be run on the compo machines will be disqualified. To prevent this, you can ask us to test your production on the compo machines. Do this early so you have time to fix any problems.
+- Entries which cannot be run on the compo machines will be disqualified. To prevent this, you can test your entry on the compo machines at CompoBase during the event, or ask us to test it for you. Do this early so you have time to fix any problems.
 - A **screenshot** image must be submitted with the entry to the competition management system.
 - You must hide the **mouse cursor**.
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.

@@ -15,6 +15,7 @@ Refer to the [General rules](../general.md) with the following additions:
   - Max **3 minutes** showing time (game itself can be longer).
   - Recommended: submit a presentation video in the short film format.
 - The game must be **playable!**
+- You can ask us to test your entry on the compo machines before the deadline. Do this early so you have time to fix any problems.
 - Must allow exiting at any time (e.g. ESC or menu).
 - The game may write settings/saves/high scores to disk/registry.
 - May use network connections.
