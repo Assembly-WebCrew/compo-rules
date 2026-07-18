@@ -17,7 +17,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - Maximum size in executable form is **4096 bytes.**
 - Intro may not last longer than **5 minutes.**
 - The production must be a *single file*. Additional info files are fine but will be deleted prior to running the intro.
-- Entry must run on a **Desktop platform.**
+- Entry must run on a **Desktop platform**: the compo PC, which runs **Windows 11** and **Ubuntu 26.04 LTS**. Current hardware specs are listed on the demoscene competitions page.
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
 - For Oldskool platforms, submit to the Combined Oldskool compo instead.
 

@@ -10,7 +10,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - AI-generated content is not allowed in this compo.
 - Fan art using copyrighted characters or works is not allowed.
 - All entries must be previously unreleased (no Game Jams, Steam/App Store pages, trailers, etc.).
-- Entry must run on a **Desktop, Oldskool, or Mobile platform.**
+- Entry must run on a **Desktop, Oldskool, or Mobile platform.** (Desktop = the compo PC: **Windows 11** / **Ubuntu 26.04 LTS**.)
 - Presentation:
   - Max **3 minutes** showing time (game itself can be longer).
   - Recommended: submit a presentation video in the short film format.

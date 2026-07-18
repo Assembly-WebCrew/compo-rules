@@ -16,7 +16,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
 - Demo may not last longer than **8 minutes.**
 - 2 GB size limit for the compressed archive.
-- Entry must run on a **Desktop platform.**
+- Entry must run on a **Desktop platform**: the compo PC, which runs **Windows 11** and **Ubuntu 26.04 LTS**. Current hardware specs are listed on the demoscene competitions page.
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
 
 Remote entries are welcome.
