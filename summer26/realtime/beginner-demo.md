@@ -12,7 +12,7 @@ This competition is only for beginners. Remember that this competition is more a
 - Entry must be in an **executable form**. Pure animation files are not allowed.
 - The production must work from **read-only media** and must not modify system settings.
 - The production must show in a similar manner every time it is executed.
-- Entries which cannot be run on the compo machines will be disqualified.
+- Entries which cannot be run on the compo machines will be disqualified. To prevent this, you can test your entry on the compo machines at CompoBase during the event, or ask us to test it for you. Do this early so you have time to fix any problems.
 - A **screenshot** image must be submitted with the entry.
 - You must hide the **mouse cursor**.
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.

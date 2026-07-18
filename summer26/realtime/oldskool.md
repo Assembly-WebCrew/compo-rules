@@ -15,6 +15,7 @@ This is a combined demo competition for oldskool hardware. The goal is to make a
 - Entries will be recorded at 1080p60 (or possibly 1080p50) resolution.
 - Demo must not last longer than **5 minutes.**
 - Demo must run on the **Oldskool platform** (see below) and must be tested on real hardware.
+- You can test your entry on the compo hardware at CompoBase during the event, or ask us to test it for you. Do this early so you have time to fix any problems.
 - Demo must be launchable using the standard procedure for that platform. If in doubt, ask us.
 - No size limit, but it must be reasonable for the platform.
 - When submitting:
