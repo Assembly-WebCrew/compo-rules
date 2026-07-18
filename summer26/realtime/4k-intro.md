@@ -19,6 +19,6 @@ Refer to the [General rules](../general.md) with the following additions:
 - The production must be a *single file*. Additional info files are fine but will be deleted prior to running the intro.
 - Entry must run on a **Desktop platform.**
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
-- For Oldskool platforms, submit to the Combined Oldskool compo instead.
+- For Oldskool platforms, submit to the Oldskool Demo compo instead.
 
 Remote entries are welcome.

@@ -1,4 +1,4 @@
-# Combined oldskool demo
+# Oldskool Demo
 
 Refer to the [General rules](../general.md) with the following additions:
 

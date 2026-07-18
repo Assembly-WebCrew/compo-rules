@@ -21,6 +21,6 @@ Refer to the [General rules](../general.md) with the following additions:
 - PC version must support **1080p resolution**.
 - Submit a **screenshot** along with the entry.
 - Multi-platform support allowed (Windows, Java, Linux, Mac, 3DS, Android, iOS, etc.).
-- For Oldskool entries, see Combined Oldskool compo rules.
+- For Oldskool entries, see Oldskool Demo compo rules.
 
 Remote entries are welcome.
