@@ -7,7 +7,7 @@ These general rules apply to all competitions. Compo-specific rules override the
 - A valid IBAN is required to receive money prizes; money prizes are paid afterwards, so you do not need to be present at the party. Only a physical trophy requires the author or a designated proxy to be present at the prize giving.
 - Submitting an entry means accepting the competition contract.
 - Maximum one entry per artist per competition. If you submit multiple, only one will be accepted.
-- AI-generated content is not allowed in any competition unless that competition's rules explicitly permit it.
+- AI-generated content is not allowed in any competition unless that competition's rules explicitly permit it. This applies to the entry's own content: code, graphics, and music. Tools you use to make the entry (synths, trackers, packers, editors, compilers) are fine even if AI was used to develop those tools.
 - You must own or have permission for all material in your entry - burden of proof is on you. See the copyright FAQ. No trademarked or copyrighted content (logos, etc.). Finnish copyright law has no "fair use".
 - Fan art using copyrighted characters or works is not allowed. With money prizes at stake this is enforced strictly.
 - Shown entries are preselected by jury / organizers. Entries that aren't shown are not released by Assembly.

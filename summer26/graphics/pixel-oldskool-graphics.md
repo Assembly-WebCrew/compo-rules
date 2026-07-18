@@ -6,7 +6,7 @@ A combined graphics competition for traditional pixeled graphics and legacy plat
 
 - All entries must be original and unreleased. No covers, copies, or reproductions of someone else's work.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
-- AI-generated content is not allowed in this compo.
+- AI-generated content is not allowed in this compo. This means the entry's own content: the code, graphics, and music must be human-made. Tools you use to make the entry (synths, trackers, packers, editors, compilers) are fine even if AI was used to develop those tools - using them does not make your entry AI-generated.
 - Fan art using copyrighted characters or works is not allowed.
 - Entries will be shown (proportionally scaled) on a 16:9 screen.
 - Use of stock photos, paintover, etc. techniques is NOT ALLOWED in this competition.

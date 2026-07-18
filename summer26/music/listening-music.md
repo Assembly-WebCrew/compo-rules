@@ -10,7 +10,7 @@ Typical traits: Variable tempo and dynamics, more complex structures, not primar
 
 - All entries must be 100% original and unreleased. Covers and remixes are not allowed. Copyrighted samples or other copyrighted material is not allowed unless they are Creative Commons licensed.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
-- AI may not be used to compose or generate the music.
+- AI may not be used to compose or generate the music. Tools you use to make the entry (synths, trackers, DAWs, effects) are fine even if AI was used to develop those tools - using them does not make your music AI-generated.
 - You may not use any music for which you haven't acquired the rights. Most published music is controlled by Teosto/Gramex and is therefore not usable. You are liable for any infringements.
 - There are no restrictions on composing techniques. Just make sure it's an original piece and in a supported format.
 - Supported formats are 320kbps MP3 and FLAC.
