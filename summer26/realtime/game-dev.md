@@ -7,7 +7,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - All material in an entry must be previously unreleased. Realtime/development entries may include music and graphics that compete in the same event's compos.
 - Previously released components (e.g. fonts, system samples) are OK only if they are not the main effort and you have rights to use them.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
-- AI-generated content is not allowed in this compo. This means the entry's own content: the code, graphics, and music must be human-made. Tools you use to make the entry (synths, trackers, packers, editors, compilers) are fine even if AI was used to develop those tools - using them does not make your entry AI-generated.
+- AI-generated content is not allowed in this compo. This means the entry's own content: the code, graphics, and music must be human-made. Tools you use to make the entry (such as synths, trackers, packers, editors, compilers, etc.) are fine even if AI was used to develop those tools - using them does not make your entry AI-generated.
 - Fan art using copyrighted characters or works is not allowed.
 - All entries must be previously unreleased (no Game Jams, Steam/App Store pages, trailers, etc.).
 - Entry must run on a **Desktop, Oldskool, or Mobile platform.** (Desktop = the compo PC: **Windows 11** / **Ubuntu 26.04 LTS**.)

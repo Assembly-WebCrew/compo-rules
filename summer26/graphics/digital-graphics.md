@@ -4,7 +4,7 @@ Refer to the [General rules](../general.md) with the following additions:
 
 - All entries must be original and unreleased. No covers, copies, or reproductions of someone else's work.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
-- AI-generated content is not allowed in this compo. This means the entry's own content: the code, graphics, and music must be human-made. Tools you use to make the entry (synths, trackers, packers, editors, compilers) are fine even if AI was used to develop those tools - using them does not make your entry AI-generated.
+- AI-generated content is not allowed in this compo. This means the entry's own content: the code, graphics, and music must be human-made. Tools you use to make the entry (such as synths, trackers, packers, editors, compilers, etc.) are fine even if AI was used to develop those tools - using them does not make your entry AI-generated.
 - Fan art using copyrighted characters or works is not allowed.
 - The only supported image formats are PNG and JPG. Only RGB colour space allowed – no CMYK images.
 - If the original image was in vector format, you may include the image in the submission package also in SVG format. However, the PNG or JPEG image will be the primary submission and will be shown on the big screen.
