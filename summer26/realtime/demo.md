@@ -17,6 +17,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - Demo may not last longer than **8 minutes.**
 - 2 GB size limit for the compressed archive.
 - Entry must run on a **Desktop platform**: the compo PC, which runs **Windows 11** and **Ubuntu 26.04 LTS**. Current hardware specs are listed on the demoscene competitions page.
+- Browser-based entries are accepted. They are run in **Chrome** on the compo PC and must be fully self-contained: a single file with no external resources loaded from the network. Browsers differ - test your entry on the compo machines (see above).
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
 
 Remote entries are welcome.
