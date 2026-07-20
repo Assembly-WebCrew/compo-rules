@@ -10,7 +10,7 @@ Typical traits: Strong and steady beat, repetitive rhythm patterns, tempo often 
 
 High energy alone doesn’t make a song fit this category - the rhythm and groove must be central to the composition.
 
-- All entries must be 100% original and unreleased. Covers and remixes are not allowed. Copyrighted samples or other copyrighted material is not allowed unless they are Creative Commons licensed.
+- Your entry must be your own work and previously unreleased. Covers, remixes and rearrangements are not allowed. Copyrighted samples and other copyrighted material are not allowed unless you have a licence covering this use, for example a Creative Commons licence or a sample library licence.
 - If you use Creative Commons or Public Domain material, state so in your entry form and cite the source.
 - AI may not be used to compose or generate the music. This means a track, or a part of a track, produced by prompting is not allowed. Using AI as a part of your production process (for example an AI-generated vocal sound for your own lyrics and composition) is acceptable, as long as you have the rights to the AI-generated material and follow the other rules. Tools you use to make the entry (such as synths, trackers, DAWs, effects, etc.) are fine even if AI was used to develop those tools - using them does not make your music AI-generated.
 - You may not use any music for which you haven't acquired the rights. Most published music is controlled by Teosto/Gramex and is therefore not usable. You are liable for any infringements.
