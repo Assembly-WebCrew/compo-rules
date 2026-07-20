@@ -11,7 +11,6 @@ A combined graphics competition for traditional pixeled graphics and legacy plat
 - Entries will be shown (proportionally scaled) on a 16:9 screen.
 - Use of stock photos, paintover, etc. techniques is NOT ALLOWED in this competition.
 - Entries without an unsigned final picture will be disqualified.
-- The compo time slot determines how many entries can be shown. If there are more entries than fit, a preselection jury will choose which to include.
 - Clear rule violations will result in disqualification - we do not request resubmissions.
 
 **Modern pixeled graphics.** This is an oldschool pixeled graphics competition. It means that we're expecting to see entries that have been drawn pixel by pixel, by using old-fashioned techniques and not, for example, overpainting renders, repainting or using photos as parts of the picture. If something in the picture seems to be out of place, it might not make it to be presented on the big screen.
