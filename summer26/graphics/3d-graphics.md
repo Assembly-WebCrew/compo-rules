@@ -18,7 +18,6 @@ This competition is for 3D-rendered still images: the artistic work is done in 3
 - Include at least one work-in-progress screenshot from your 3D tool's viewport (e.g. wireframe or clay render) in a subdirectory called "unfinished" in the ZIP archive.
 - Submit a `readme.txt` listing tools used and creation process
 - Optionally include source files (Blender, FBX, etc.) under 50 MB
-- The compo time slot determines how many entries can be shown. If there are more entries than fit, a preselection jury will choose which to include.
 - Clear rule violations will result in disqualification - we do not request resubmissions.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
 
