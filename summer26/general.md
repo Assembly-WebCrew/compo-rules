@@ -2,7 +2,7 @@
 
 These general rules apply to all competitions. Compo-specific rules override them where applicable. If in doubt, contact CompoCrew at <compo-contact@assembly.org> or on the #demoscene channel of the Assembly Discord server.
 
-- Entries must be uploaded to the competition system before the deadline. All deadlines are hard - contact the organizer if you're stuck.
+- Entries are submitted at [scene.assembly.org](https://scene.assembly.org/), where you can also find the [full schedule of deadlines and juries](https://scene.assembly.org/event/timetable/). All deadlines are hard - contact the organizer if you're stuck.
 - Whether remote entries are allowed depends on the specific competition's rules. A ticket is not required for a remote entry but is required to vote.
 - A valid IBAN is required to receive money prizes; money prizes are paid afterwards, so you do not need to be present at the party. Only a physical trophy requires the author or a designated proxy to be present at the prize giving.
 - Submitting an entry means accepting the competition contract.
