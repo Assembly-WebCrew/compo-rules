@@ -8,7 +8,7 @@ These general rules apply to all competitions. Compo-specific rules override the
 - Submitting an entry means accepting the competition contract.
 - Maximum one entry per artist per competition. If you submit multiple, only one will be accepted.
 - AI-generated content is not allowed in any competition unless that competition's rules explicitly permit it. This applies to the entry's own content: code, graphics, and music. Tools you use to make the entry (such as synths, trackers, packers, editors, compilers, etc.) are fine even if AI was used to develop those tools.
-- You must own or have permission for all material in your entry - burden of proof is on you. See the copyright FAQ. No trademarked or copyrighted content (logos, etc.). Finnish copyright law has no "fair use".
+- You must own or have permission for all material in your entry - burden of proof is on you. See [On Copyright](copyright.md) for what this means in practice, with examples. No trademarked or copyrighted content (logos, etc.). Finnish copyright law has no "fair use".
 - Fan art using copyrighted characters or works is not allowed. With money prizes at stake this is enforced strictly.
 - Every compo has a time slot, and the slot determines how many entries can be shown. If more entries are submitted than fit, a preselection jury chooses which ones are shown - this applies to every compo.
 - Entries that aren't shown are not released by Assembly, so they are not counted as released and you can enter them in another party.
