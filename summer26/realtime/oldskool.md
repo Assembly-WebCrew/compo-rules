@@ -24,7 +24,7 @@ This is a combined demo competition for oldskool hardware. The goal is to make a
   - Provide a high-quality video capture. For example: 1920×1080 at 50 or 60 Hz, using x264 in an MP4 container with a high bit rate.
     - Captures from emulators or FPGA-based systems should only be used as a last resort.
     - Widescreen option: you can request a 16:9 capture (for example using the full overscan width) in the org notes field when submitting. We'll see what we can do, but this is not guaranteed. You can also capture your entry in 16:9 yourself if you want.
-  - If you cannot make the capture yourself, we may be able to help - either (1) capturing from your hardware (we're on-site Thu–Fri), or (2) providing hardware ourselves. For (2), contact us at least a week before the party; note we don't have every listed platform.
+  - If you cannot make the capture yourself, we may be able to help - either (1) capturing from your hardware at CompoBase - come before the Thursday deadline so there is time - or (2) providing hardware ourselves. For (2), contact us at least a week before the party; note we don't have every listed platform.
 - For questions, contact codise on Discord, or email: <oldskool-contact@assembly.org>.
 
 ## Oldskool platform

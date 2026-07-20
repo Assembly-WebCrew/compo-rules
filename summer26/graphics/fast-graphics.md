@@ -15,5 +15,6 @@ Refer to the [General rules](../general.md) with the following additions:
 - No intermediate stages are required.
 - The compo time slot determines how many entries can be shown. If there are more entries than fit, a preselection jury will choose which to include.
 - Clear rule violations will result in disqualification - we do not request resubmissions.
+- Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
 
 Remote entries are welcome.

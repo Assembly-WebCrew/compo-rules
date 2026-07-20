@@ -18,5 +18,6 @@ A music competition for tracker formats (MOD, S3M, XM, IT) played in Trackmeiste
   - MOD: No Interpolation, No Ramping, 50% Stereo Separation, normal MOD playback mode.
   - S3M/XM/IT: Sinc Interpolation, Sensitive Ramping, 50% Stereo Separation.
 - Please provide a recording of your entry in 320kbps MP3 or FLAC in addition to the tracker file (for streaming and voting).
+- Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
 
 Remote entries are welcome.

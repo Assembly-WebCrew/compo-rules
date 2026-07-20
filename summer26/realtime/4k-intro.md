@@ -22,4 +22,6 @@ Refer to the [General rules](../general.md) with the following additions:
 - The user must be able to exit at any time by pressing a key. On PC, this key must be ESC.
 - For Oldskool platforms, submit to the Oldskool Demo compo instead.
 
+There is no separate 1K Intro compo this year, so obviously you can still submit your 1K intro here - and let everyone know that heroes do it in less than 4096 bytes.
+
 Remote entries are welcome.
