@@ -9,7 +9,7 @@ Fast music competitions started off with trackers, and the entries were made wit
 - AI may not be used to compose or generate the music. This means a track, or a part of a track, produced by prompting is not allowed. Using AI as a part of your production process (for example an AI-generated vocal sound for your own lyrics and composition) is acceptable, as long as you have the rights to the AI-generated material and follow the other rules. Tools you use to make the entry (such as synths, trackers, DAWs, effects, etc.) are fine even if AI was used to develop those tools - using them does not make your music AI-generated.
 - You may not use any music for which you haven't acquired the rights. Most published music is controlled by Teosto/Gramex and is therefore not usable. You are liable for any infringements.
 - Supported formats are 320kbps MP3 and FLAC.
-- A preselection jury will be held to comply with the time limit (typically 45 minutes).
+- A preselection jury will be held to fit the entries into the compo slot (typically 30 minutes).
 - Volume control (ReplayGain or similar) will be applied. Normalising the volume is recommended; loudness via excessive compression gives no advantage.
 - Fast Music is created at the party with additional rules and restrictions that will be revealed 1.5 hours before the deadline.
 - Entry must be no longer than 3 minutes 30 seconds (3:30).

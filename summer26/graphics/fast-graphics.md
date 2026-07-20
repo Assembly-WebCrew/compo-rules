@@ -11,7 +11,7 @@ Refer to the [General rules](../general.md) with the following additions:
 - Submit a version of the final image with NO visible signature. Name this file with "_nosig" prefix. Entries without an unsigned version will be disqualified.
 - The image resolution must be 1920x1080.
 - You have 1.5 hours to complete your picture. Submit the finished picture by the competition deadline.
-- Your picture must adhere to the theme and contain a specific graphical element. Both will be announced via Partyman (scene.assembly.org) and on the Assembly website at the start of the 1.5-hour compo time.
+- Your picture must adhere to the theme and contain a specific graphical element. Both will be announced in the Partyman news (scene.assembly.org) at the start of the 1.5-hour compo time.
 - No intermediate stages are required.
 - The compo time slot determines how many entries can be shown. If there are more entries than fit, a preselection jury will choose which to include.
 - Clear rule violations will result in disqualification - we do not request resubmissions.
