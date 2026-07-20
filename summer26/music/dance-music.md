@@ -19,5 +19,6 @@ High energy alone doesn’t make a song fit this category - the rhythm and groov
 - Dance music and Listening music share a combined compo block of approximately one hour. By default, the block is split evenly between the two compos, but the final allocation may be adjusted based on preselection jury scores. One compo may therefore receive more play time than the other.
 - Volume control (ReplayGain or similar) will be applied. Normalising the volume is recommended; loudness via excessive compression gives no advantage.
 - Entry must be no longer than 3 minutes 30 seconds. Exceeding this limit will result in disqualification.
+- Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
 
 Remote entries are NOT allowed for this competition.
