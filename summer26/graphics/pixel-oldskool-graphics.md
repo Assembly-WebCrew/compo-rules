@@ -27,6 +27,7 @@ A combined graphics competition for traditional pixeled graphics and legacy plat
 
 - Entry must be created on a native format for the target platform (e.g. C64 multicolor, Amiga IFF/LBM, Atari ST .PI1/.NEO, ZX Spectrum .SCR).
 - Specify the platform and source format clearly in submission notes.
+- Emulators are fine for creating and verifying the image - real hardware is not required (unlike in Oldskool Demo).
 - Submit:
   - The native source file
   - A converted PNG version (same resolution, original palette preserved) for big-screen display
