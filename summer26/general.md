@@ -14,3 +14,9 @@ These general rules apply to all competitions. Compo-specific rules override the
 - Every compo has a time slot, and the slot determines how many entries can be shown. If more entries are submitted than fit, a preselection jury chooses which ones are shown - this applies to every compo.
 - Entries that aren't shown are not released by Assembly, so they are not counted as released and you can enter them in another party.
 - Organizers may disqualify explicit, racist, or disturbing material, modify rules to clarify ambiguities, or change prizes (especially if entry quality or number is low).
+
+## Capture assistance
+
+Entries are shown on stage from recordings. Entries that run on the compo PC are captured by the compo crew as part of the normal compo process - you do not need to do anything.
+
+If your entry runs on anything else - your own machine, a console, retro hardware or any other platform - you are primarily expected to record the entry yourself and submit the video. We can help with capturing at CompoBase, but this is assistance, not a guaranteed service: agree on it with the compo crew well before the deadline, and state in the submission notes what your entry needs to run (platform, browser, cables, audio out). If the device has no external audio output, deliver the soundtrack separately.

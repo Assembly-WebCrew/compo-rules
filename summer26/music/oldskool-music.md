@@ -17,7 +17,7 @@ A music competition for chip music on legacy hardware platforms.
 - Screen contents will not be displayed so don't waste your time creating fancy effects.
 - Allowed platforms: Commodore 64, Sega Master System, Sega Mega Drive, Super Nintendo, Atari ST, Atari 8bit, ZX Spectrum 48k / 128k, MS-DOS (AdLib/OPL), Game Boy, and NES.
 - The entry must also be delivered as an executable program or a recognized standard file format (such as .SID, .VGM, .PRG) that can be played on the target platform.
-- YOU NEED TO PROVIDE US A RECORDING OF YOUR ENTRY FROM REAL HARDWARE in MP3 (256kbps or higher), OGG (256kbps or higher), WAV, or FLAC format.
+- YOU NEED TO PROVIDE US A RECORDING OF YOUR ENTRY FROM REAL HARDWARE in MP3 (256kbps or higher), OGG (256kbps or higher), WAV, or FLAC format. Need help capturing your entry? See Capture assistance in the general rules.
 - For Commodore 64 entries, please inform the audience which SID Chip was used (6581 or 8580) on the submission form!
 - Standard Tracked Music (MOD, S3M, XM, IT) belongs in the Tracked Music competition.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
