@@ -24,12 +24,12 @@ A combined graphics competition for traditional pixeled graphics and legacy plat
 
 **Legacy platform native formats.** This is a graphics competition for legacy platforms in their native formats - C64 multicolor, Amiga IFF, Atari ST, ZX Spectrum, NES, etc. The goal is to create artwork that respects the constraints of the original hardware (color palette, resolution, native format).
 
-- Entry must be created on a native format for the target platform (e.g. C64 multicolor, Amiga IFF/LBM, Atari ST .PI1/.NEO, ZX Spectrum .SCR).
+- Native format: you decide what counts as the native format for your platform and tools - we do not enforce a strict list. Always include a PNG or JPEG image of the work; judging and the big screen showing use that image, and we trust your choice of native format.
 - Specify the platform and source format clearly in submission notes.
 - Emulators are fine for creating and verifying the image - real hardware is not required (unlike in Oldskool Demo).
 - Submit:
-  - The native source file
-  - A converted PNG version (same resolution, original palette preserved) for big-screen display
+  - The native source file(s)
+  - A converted PNG or JPEG version (same resolution, original palette preserved) for big-screen display
   - A `_nosig` version without signature
 - Submit a `readme.txt` stating the platform, native format, tools used, and creation process.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
