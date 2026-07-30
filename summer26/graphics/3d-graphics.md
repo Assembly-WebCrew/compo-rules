@@ -20,5 +20,6 @@ This competition is for 3D-rendered still images: the artistic work is done in 3
 - Optionally include source files (Blender, FBX, etc.) under 50 MB
 - Clear rule violations will result in disqualification - we do not request resubmissions.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
+- This includes your slide texts: do not write anything in the title, technical details, or submission notes that reveals who made the entry.
 
 Remote entries are welcome.

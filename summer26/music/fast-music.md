@@ -16,5 +16,6 @@ Fast music competitions started off with trackers, and the entries were made wit
 - No software restrictions (usually).
 - Submit the finished tune into the compo system before the competition deadline.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
+- This includes your slide texts: do not write anything in the title, technical details, or submission notes that reveals who made the entry.
 
 Remote entries are welcome.
