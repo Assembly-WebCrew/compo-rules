@@ -33,6 +33,7 @@ A combined graphics competition for traditional pixeled graphics and legacy plat
   - A `_nosig` version without signature
 - Submit a `readme.txt` stating the platform, native format, tools used, and creation process.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
+- This includes your slide texts: do not write anything in the title, technical details, or submission notes that reveals who made the entry.
 
 If you have questions or wish to have a clarification on the rules, please contact your friendly scene lounge organizers well before the competition! Happy pixeling <3
 

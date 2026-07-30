@@ -18,5 +18,6 @@ Typical traits: Variable tempo and dynamics, more complex structures, not primar
 - Volume control (ReplayGain or similar) will be applied. Normalising the volume is recommended; loudness via excessive compression gives no advantage.
 - Entry must be no longer than 3 minutes 30 seconds. Exceeding this limit will result in disqualification.
 - Entries are presented anonymously: the artist or group name is not shown on screen or in Partyman until voting has closed. Please don't put your name in the entry title or the file name.
+- This includes your slide texts: do not write anything in the title, technical details, or submission notes that reveals who made the entry.
 
 Remote entries are NOT allowed for this competition.
