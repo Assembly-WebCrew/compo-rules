@@ -12,6 +12,7 @@ Make the graphics you have always wanted to make using the platform and techniqu
 - Entries made in oldskool or other native formats must also include a converted PNG or JPEG for judging and display. State the platform and native format in the submission notes.
 - The maximum display resolution is 1920x1080 or 1080x1920. Portrait entries will appear smaller because of letterboxing.
 - Submit a version of the final image with no visible signature, using `_nosig` in its filename. Entries without an unsigned version will be disqualified. A signed version may also be included.
+- You must submit clear evidence of the process in the form of at least three versions of the unfinished picture
 - Include a `readme.txt` describing the techniques and tools used and identifying the sources and licences of any third-party material.
 - Clear rule violations result in disqualification; resubmission will not be requested.
 - Entries are presented anonymously until voting has closed. Do not put an artist or group name in the title, filename, technical details, or submission notes.
