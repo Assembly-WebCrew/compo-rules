@@ -4,6 +4,7 @@ Refer to the [General rules](../general.md) with the following additions:
 
 Refer to the General rules with the following additions:
 
+- Theme: "Shine bright in the darkness"
 - All entries must be original and unreleased. No covers, copies, or reproductions of someone else’s work.
 - AI-generated content is not allowed in this compo. Tools you use to make the entry (such as Lightroom, Photoshop, Gimp, and other editors etc.) are fine even if AI was used to develop those tools – using them does not make your entry AI-generated. However using generative fill with prompted AI is not allowed in any tools. 
 - Fan art using copyrighted characters or works is not allowed.
